@@ -6,7 +6,7 @@ This repository hosts some of [my](https://kaarelh.github.io/) notes from 2023 o
 * Even though I'm posting these notes, I do not think of myself as publicly asserting the things I'm saying in them in quite the way that I would be if I e.g. published a paper or a comment on a forum.[^2]
 * As of posting these in June 2026, I think various claims I make in these notes are wrong, and I know of various ways various presented conceptions are confused and can be improved.[^3]
 * Still, the notes are obviously evidence of what I think. If you see from a note that I'm wrong about something and write to me and help me see that I was wrong about it, I'll be grateful. Ditto for offering me better methods/conceptions/models/ideas/concepts/words/designs.
-* An assortment of 101 items from the repository:
+* An assortment of 101 items from the vault:
 	* **AI safety presentation slides** (or really self-contained slideuments):
 		* [Variants of the alignment problem (at the AFFINE Superintelligence Alignment Seminar)](https://github.com/kaarelh/notes/blob/main/ai/presentations/variants%20of%20the%20alignment%20problem.pdf)
 		* [Verification-based alignment schemes (at the AFFINE Superintelligence Alignment Seminar)](https://github.com/kaarelh/notes/blob/main/ai/presentations/verification-based%20alignment%20schemes.pdf)
