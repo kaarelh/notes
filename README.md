@@ -1,7 +1,7 @@
 # notes!
 
-This repository hosts some of [my](https://kaarelh.github.io/) personal notes from 2023 onward, mostly on topics with some relevance to reducing catastrophic risk from AI.
-* Most of the notes are written for myself (to help me think some question through, to learn, to give me the option to reload a mental picture later, and for other reasons). A significant fraction is written for sending to friends. A significant fraction is written with potentially publishing partly in mind.
+This repository hosts some of [my](https://kaarelh.github.io/) notes from 2023 onward, mostly on topics with some relevance to reducing catastrophic risk from AI.
+* Most of the notes are written for myself (to help me think some question through, to learn, to give me the option to reload a mental picture later, and for other reasons). A significant fraction is written for friends. A significant fraction is written with potentially publishing partly in mind.
 * If you feel like writing some note into a more polished post and publishing it, feel welcome to do that.[^1]
 * Even though I'm posting these notes, I do not think of myself as publicly asserting the things I'm saying in them in quite the way that I would be if I e.g. published a paper or a comment on a forum.[^2]
 * As of posting these in June 2026, I think various claims I make in these notes are wrong, and I know of various ways various presented conceptions are confused and can be improved.[^3]
@@ -96,7 +96,6 @@ This repository hosts some of [my](https://kaarelh.github.io/) personal notes fr
 	* **uncategorized AI safety**:
 		* [messages on a lab preparing for RSI](https://github.com/kaarelh/notes/blob/main/ai/alignment%20general/messages%20on%20a%20lab%20preparing%20for%20RSI.md)
 		* [RSI structure hyperparams](https://github.com/kaarelh/notes/blob/main/ai/alignment%20general/RSI%20structure%20hyperparameters.md)
-		* [a list of alignment training tricks](https://github.com/kaarelh/notes/blob/main/ai/alignment%20training%20tricks/a%20list%20of%20alignment%20training%20tricks.md)
 		* [a statement of the alignment problem](https://github.com/kaarelh/notes/blob/main/ai/alignment%20general/a%20statement%20of%20the%20alignment%20problem.md)
 		* [an argument for faster takeoff](https://github.com/kaarelh/notes/blob/main/ai/alignment%20general/argument%20for%20faster%20takeoff%20sent%20to%20AI2027%20ppl.md)
 		* [some good questions in conceptual alignment](https://github.com/kaarelh/notes/blob/main/ai/alignment%20general/some%20good%20questions%20to%20ponder%20to%20understand%20alignment/some%20good%20questions%20in%20conceptual%20alignment.md)
@@ -105,6 +104,7 @@ This repository hosts some of [my](https://kaarelh.github.io/) personal notes fr
 		* [mind uploads with ML (and specifically prediction)](https://github.com/kaarelh/notes/tree/main/ai/mind%20uploads%20with%20ML%20%28and%20prediction%20in%20particular%29)
 		* [some ideas for safe self-improvement](https://github.com/kaarelh/notes/blob/main/philosophy/philosophy%20of%20fooming/some%20ideas%20for%20safe%20self-improvement.md)
 		* [safe self-improvement is much easier than the AGI problem we face](https://github.com/kaarelh/notes/blob/main/ai/alignment%20general/safe%20self-improvement%20is%20much%20easier%20than%20the%20AGI%20problem%20we%20face.md)
+		* [a list of alignment training tricks](https://github.com/kaarelh/notes/blob/main/ai/alignment%20training%20tricks/a%20list%20of%20alignment%20training%20tricks.md)
 		* [intention-setting speech for AFFINE seminar](https://github.com/kaarelh/notes/blob/main/ai/alignment%20teaching/intention-setting%20speech%20for%20AFFINE%20seminar.md)
 		* [some hyperparam changes for the field of non-prosaic alignment](https://github.com/kaarelh/notes/blob/main/ai/alignment%20general/some%20hyperparam%20changes%20for%20the%20field%20of%20non-prosaic%20alignment.md)
 	* **varia**:
