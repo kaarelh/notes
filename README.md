@@ -94,6 +94,7 @@ This repository hosts some of [my](https://kaarelh.github.io/) notes from 2023 o
 		* [we should grow immensely but with great care](https://github.com/kaarelh/notes/blob/main/philosophy/philosophy%20of%20thinking/advent%20of%20reason/real%20attempt%202024/21%20we%20should%20grow%20immensely%20but%20with%20great%20care.md)
 		* [a human future isn't petty](https://github.com/kaarelh/notes/blob/main/philosophy/philosophy%20of%20thinking/advent%20of%20reason/real%20attempt%202024/23%20a%20human%20future%20isn%27t%20petty.md)
 	* **uncategorized AI safety**:
+		* [outside-view arguments for (and against) AI doom](https://github.com/kaarelh/notes/blob/main/ai/alignment%20general/outside%20view%20arguments%20for%20(and%20against)%20AI%20doom.md)
 		* [messages on a lab preparing for RSI](https://github.com/kaarelh/notes/blob/main/ai/alignment%20general/messages%20on%20a%20lab%20preparing%20for%20RSI.md)
 		* [RSI structure hyperparams](https://github.com/kaarelh/notes/blob/main/ai/alignment%20general/RSI%20structure%20hyperparameters.md)
 		* [a statement of the alignment problem](https://github.com/kaarelh/notes/blob/main/ai/alignment%20general/a%20statement%20of%20the%20alignment%20problem.md)
