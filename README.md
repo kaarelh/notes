@@ -63,7 +63,7 @@ This repository hosts some of [my](https://kaarelh.github.io/) personal notes fr
 			* [condensation coding](https://github.com/kaarelh/notes/tree/main/philosophy/concepting/condensation/condensation%20coding)
 	* **mathematical questions about ideal inductions**:
 		* [polytime solomonoff](https://github.com/kaarelh/notes/blob/main/ai/learning/solomonoff%20induction/polytime%20solomonoff%20%28response%20to%20lucius%29.md)
-		* [solomonoff function induction](https://github.com/kaarelh/notes/blob/main/ai/learning/solomonoff%20induction/solomonoff%20function%20induction.md) ([pdf](https://github.com/kaarelh/notes/blob/main/ai/learning/solomonoff%20induction/solomonoff%20function%20induction.pdf))
+		* [solomonoff function induction v1](https://github.com/kaarelh/notes/blob/main/ai/learning/solomonoff%20induction/solomonoff%20function%20induction.md), [solomonoff function induction v2](https://github.com/kaarelh/notes/blob/main/ai/learning/solomonoff%20induction/solomonoff%20function%20induction.pdf)
 		* [solomonoff axiom induction](https://github.com/kaarelh/notes/blob/main/ai/learning/solomonoff%20induction/solomonoff%20axiom%20induction.md)
 		* [circuit occam learning](https://github.com/kaarelh/notes/blob/main/ai/learning/circuit%20solomonoff/circuit%20occam%20learning.md)
 		* [for circuit induction, regret and complexity are polynomially related](https://github.com/kaarelh/notes/blob/main/ai/learning/circuit%20solomonoff/for%20circuit%20induction%2C%20regret%20and%20complexity%20are%20polynomially%20related.md)
