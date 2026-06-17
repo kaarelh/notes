@@ -5,7 +5,7 @@ This repository hosts some of [my](https://kaarelh.github.io/) notes from 2023 o
 * If you feel like writing some note into a more polished post and publishing it, feel welcome to do that.[^1]
 * Even though I'm posting these notes, I do not think of myself as publicly asserting the things I'm saying in them in quite the way that I would be if I e.g. published a paper or a comment on a forum.[^2]
 * As of posting these in June 2026, I think various claims I make in these notes are wrong, and I know of various ways various presented conceptions are confused and can be improved.[^3]
-* Still, the notes are obviously evidence of what I think. If you see from a note that I'm wrong about something and write to me and help me see that I was wrong about it, I'll be grateful. Ditto for offering me better methods/conceptions/models/ideas/concepts/words/designs.
+* Still, the notes are obviously evidence of what I think. If you see from a note that I'm wrong about something and write to me (at kaarelh squiggle gmail dustspeck com) and help me see that I was wrong about it, I'll be grateful. Ditto for offering me better methods/conceptions/models/ideas/concepts/words/designs.
 * An assortment of 101 items from the vault:
 	* **AI safety presentation slides** (or really self-contained slideuments):
 		* [Variants of the alignment problem (at the AFFINE Superintelligence Alignment Seminar)](https://github.com/kaarelh/notes/blob/main/ai/presentations/variants%20of%20the%20alignment%20problem.pdf)
@@ -15,6 +15,21 @@ This repository hosts some of [my](https://kaarelh.github.io/) notes from 2023 o
 		* [Intro to AGI safety (at the University of Tartu)](https://github.com/kaarelh/notes/blob/main/ai/presentations/intro%20to%20AGI%20safety%20%28for%20ML-ish%20people%29.pdf)
 		* [Impact cases for guardrails/monitoring/verification (at Mila)](https://github.com/kaarelh/notes/blob/main/ai/presentations/impact%20cases%20for%20guardrails_monitoring_verification.pdf)
 		* [Why fear a math AI? (at Mila)](https://github.com/kaarelh/notes/blob/main/ai/presentations/why%20fear%20a%20math%20AI.pdf)
+	* **on understanding**:
+		* [good concepts are concepts that support inferences](https://github.com/kaarelh/notes/blob/main/philosophy/concepting/good%20concepts%20are%20concepts%20that%20support%20inferences.md)
+		* [predicting specific things](https://github.com/kaarelh/notes/blob/main/philosophy/prediction/predicting%20specific%20things.md)
+		* [model-thinking in mathematics](https://github.com/kaarelh/notes/blob/main/philosophy/philosophy%20of%20understanding/model-thinking%20in%20mathematics.md)
+		* [how categoricity (or universal properties) relate to the implementation of mental structures](https://github.com/kaarelh/notes/blob/main/philosophy/philosophy%20of%20thinking/how%20categoricity%20%28or%20universal%20properties%29%20relate%20to%20the%20implementation%20of%20mental%20structures.md)
+		* [gaining the integral notion](https://github.com/kaarelh/notes/blob/main/philosophy/concepting/gaining%20concepts/gaining%20the%20integral%20notion.md)
+		* [cheap inferences](https://github.com/kaarelh/notes/blob/main/philosophy/philosophy%20of%20thinking/cheap%20inferences.md)
+		* [turning activity-situations into abstract games](https://github.com/kaarelh/notes/blob/main/philosophy/philosophy%20of%20doing/turning%20activity-situations%20into%20abstract%20games.md)
+		* [a stylized genealogy of sonic concepts](https://github.com/kaarelh/notes/blob/main/philosophy/concepting/examples%20of%20contexts%20calling%20for%20some%20concepts/sonic%20concepts/a%20stylized%20genealogy%20of%20sonic%20concepts.md)
+		* condensation:
+			* [condensation coefficients from scale-freeness](https://github.com/kaarelh/notes/blob/main/philosophy/concepting/condensation/condensation%20coefficients%20from%20scale-freeness.md)
+			* [condensation coefficients compatible with the loss being a positive combination of subset losses](https://github.com/kaarelh/notes/blob/main/philosophy/concepting/condensation/condensation%20coefficients%20compatible%20with%20the%20loss%20being%20a%20positive%20combination%20of%20subset%20losses.md)
+			* [linear condensation](https://github.com/kaarelh/notes/blob/main/philosophy/concepting/condensation/linear%20condensation.md)
+			* [limitations of condensation](https://github.com/kaarelh/notes/blob/main/philosophy/concepting/condensation/limitations%20of%20condensation.md)
+			* [condensation coding](https://github.com/kaarelh/notes/tree/main/philosophy/concepting/condensation/condensation%20coding)
 	* **valuing, ethics, metaethics:**
 		* [mundane malignity](https://github.com/kaarelh/notes/blob/main/philosophy/valuing/mundane%20malignity.md)
 		* [it is natural for a mind to remake the world](https://github.com/kaarelh/notes/blob/main/ai/alignment%20general/it%20is%20natural%20for%20a%20mind%20to%20remake%20the%20world.md)
@@ -31,23 +46,7 @@ This repository hosts some of [my](https://kaarelh.github.io/) notes from 2023 o
 		* [some thoughts on consequentialist ethics in large worlds](https://github.com/kaarelh/notes/blob/main/philosophy/ethics/some%20thoughts%20on%20consequentialist%20ethics%20in%20large%20worlds.md) and [an ethical problem relating to existence](https://github.com/kaarelh/notes/blob/main/philosophy/ethics/an%20ethical%20problem%20relating%20to%20existence.md)
 		* [examples of structure-making](https://github.com/kaarelh/notes/blob/main/philosophy/ethics/examples%20of%20structure-making.md) and [why copy-making?](https://github.com/kaarelh/notes/blob/main/philosophy/ethics/why%20copy-making%3F.md)
 		* [on pursuing ideals](https://github.com/kaarelh/notes/blob/main/philosophy/decision%20theory/on%20pursuing%20ideals.md)
-		* [the anima mundi analogy](https://github.com/kaarelh/notes/blob/main/philosophy/philosophy%20of%20thinking/the%20anima%20mundi%20analogy.md)
-	* **on understanding**:
-		* [good concepts are concepts that support inferences](https://github.com/kaarelh/notes/blob/main/philosophy/concepting/good%20concepts%20are%20concepts%20that%20support%20inferences.md)
-		* [predicting specific things](https://github.com/kaarelh/notes/blob/main/philosophy/prediction/predicting%20specific%20things.md)
-		* [model-thinking in mathematics](https://github.com/kaarelh/notes/blob/main/philosophy/philosophy%20of%20understanding/model-thinking%20in%20mathematics.md)
-		* [how categoricity (or universal properties) relate to the implementation of mental structures](https://github.com/kaarelh/notes/blob/main/philosophy/philosophy%20of%20thinking/how%20categoricity%20%28or%20universal%20properties%29%20relate%20to%20the%20implementation%20of%20mental%20structures.md)
-		* [gaining the integral notion](https://github.com/kaarelh/notes/blob/main/philosophy/concepting/gaining%20concepts/gaining%20the%20integral%20notion.md)
-		* [cheap inferences](https://github.com/kaarelh/notes/blob/main/philosophy/philosophy%20of%20thinking/cheap%20inferences.md)
-		* [turning activity-situations into abstract games](https://github.com/kaarelh/notes/blob/main/philosophy/philosophy%20of%20doing/turning%20activity-situations%20into%20abstract%20games.md)
-		* [a stylized genealogy of sonic concepts](https://github.com/kaarelh/notes/blob/main/philosophy/concepting/examples%20of%20contexts%20calling%20for%20some%20concepts/sonic%20concepts/a%20stylized%20genealogy%20of%20sonic%20concepts.md)
-		* condensation:
-			* [condensation coefficients from scale-freeness](https://github.com/kaarelh/notes/blob/main/philosophy/concepting/condensation/condensation%20coefficients%20from%20scale-freeness.md)
-			* [condensation coefficients compatible with the loss being a positive combination of subset losses](https://github.com/kaarelh/notes/blob/main/philosophy/concepting/condensation/condensation%20coefficients%20compatible%20with%20the%20loss%20being%20a%20positive%20combination%20of%20subset%20losses.md)
-			* [linear condensation](https://github.com/kaarelh/notes/blob/main/philosophy/concepting/condensation/linear%20condensation.md)
-			* [limitations of condensation](https://github.com/kaarelh/notes/blob/main/philosophy/concepting/condensation/limitations%20of%20condensation.md)
-			* [condensation coding](https://github.com/kaarelh/notes/tree/main/philosophy/concepting/condensation/condensation%20coding)
-	* **mathematical questions about ideal inductions**:
+	* **ideal induction math**:
 		* [polytime solomonoff](https://github.com/kaarelh/notes/blob/main/ai/learning/solomonoff%20induction/polytime%20solomonoff%20%28response%20to%20lucius%29.md)
 		* [solomonoff function induction v1](https://github.com/kaarelh/notes/blob/main/ai/learning/solomonoff%20induction/solomonoff%20function%20induction.md), [solomonoff function induction v2](https://github.com/kaarelh/notes/blob/main/ai/learning/solomonoff%20induction/solomonoff%20function%20induction.pdf)
 		* [solomonoff axiom induction](https://github.com/kaarelh/notes/blob/main/ai/learning/solomonoff%20induction/solomonoff%20axiom%20induction.md)
@@ -86,6 +85,7 @@ This repository hosts some of [my](https://kaarelh.github.io/) notes from 2023 o
 		* [a world of purposes](https://github.com/kaarelh/notes/blob/main/philosophy/philosophy%20of%20doing/a%20world%20of%20purposes.md)
 		* [standard physics implies infinite computation causally downstream of us along certain extremely low (and decaying) amplitude quantum branches](https://github.com/kaarelh/notes/blob/main/philosophy/metaphysics/standard%20physics%20implies%20infinite%20computation%20causally%20downstream%20of%20us%20along%20certain%20extremely%20low%20%28and%20decaying%29%20amplitude%20quantum%20branches.md)
 		* [wherefore discreteness](https://github.com/kaarelh/notes/blob/main/philosophy/metaphysics/wherefore%20discreteness%3F.md) and [emergence of structures](https://github.com/kaarelh/notes/tree/main/philosophy/emergence%20of%20structures)
+		* [the anima mundi analogy](https://github.com/kaarelh/notes/blob/main/philosophy/philosophy%20of%20thinking/the%20anima%20mundi%20analogy.md)
 	* **on human futures, facing AGI**:
 		* [instead of building a very different artificial system which is smarter than us, let's just become smarter (tentatively indefinitely)](https://github.com/kaarelh/notes/blob/main/philosophy/philosophy%20of%20thinking/advent%20of%20reason/real%20attempt%202024/19%20instead%20of%20building%20a%20very%20different%20artificial%20system%20which%20is%20smarter%20than%20us%2C%20let%27s%20just%20become%20smarter%20%28tentatively%20indefinitely%29.md)
 		* [what is weltgeistbehandlung?](https://github.com/kaarelh/notes/blob/main/weltgeistbehandlung/what%20is%20weltgeistbehandlung%3F.md)
