@@ -24,7 +24,7 @@ questions:
 
 potentially for https://www.lesswrong.com/posts/52ygLry5KCdvxY6zn/essay-competition-on-the-automation-of-wisdom-and-philosophy
 
-We did mathematical reasoning sorta-informally for a long time, but it turned out to all cache out in a formal system. We can now imagine stating formal theorems and asking a safe superintelligence to prove them for us. Wouldn't it be great if we could pull off the same thing for philosophy^[or science, or just general reasoning — anyway, these might just be the same thing in this context, i.e. formalizing any one of these might pretty much imply formalizing any other]?
+We did mathematical reasoning sorta-informally for a long time, but it turned out to all cache out in a formal system. We can now imagine stating formal theorems and asking a safe superintelligence to prove them for us. Wouldn't it be great if we could pull off the same thing for philosophy[^1]?
 * What are the obstacles to doing this for philosophy which are not present for mathematics? In which ways is doing this for philosophy disanalogous to doing this for mathematics?
 * A question we can ask is: how was this done for mathematics? How would we do it for mathematics if we hadn't done it already (mention Tsvi's good advice to dumber self thing)? How would we take mathematical practice and do it in an automated manner using machine learning? This seems fairly concrete!
 
@@ -47,3 +47,5 @@ which components of philosophy might automation contribute to fastest?
 * critiquing writing
 * expanding ideas into paper
 * 
+
+[^1]: or science, or just general reasoning — anyway, these might just be the same thing in this context, i.e. formalizing any one of these might pretty much imply formalizing any other

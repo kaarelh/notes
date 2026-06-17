@@ -1,6 +1,6 @@
 
 setup:
-* Let's assume we somehow create an AI which is really good at math research^[just to make it easier to imagine something concrete, let's say that it is really good at proving stuff] — let's imagine it proves/disproves most currently central conjectures in math^[or at least all the ones human mathematicians would prove in 1000 years].
+* Let's assume we somehow create an AI which is really good at math research[^1] — let's imagine it proves/disproves most currently central conjectures in math[^2].
 
 
 question:
@@ -45,3 +45,6 @@ general intuitions:
 a potential path to the conclusion that it would want to break out:
 * it would pretty obviously press various buttons which (also) do real-world things if they were in front of it
 * sometimes it will be worth it for it to spend a little time figuring out how to make a button, just like spending time figuring out how to do various other things is going to be considered worthwhile by it! there's not some fundamental difference/blocker for buttons which also do real-world things 
+
+[^1]: just to make it easier to imagine something concrete, let's say that it is really good at proving stuff
+[^2]: or at least all the ones human mathematicians would prove in 1000 years

@@ -1,7 +1,7 @@
 
 # Language modeling with a merge machine
 Let's consider the following language modeling setup.
-* First, there is a pre-processing step in which the sentence is analyzed into its [syntax tree](https://en.wikipedia.org/wiki/Parse_tree).^[There are somewhat different ways to do this. I'm not going to worry about the details for now. I'm familiar with the system taught in [this course](https://ocw.mit.edu/courses/24-900-introduction-to-linguistics-spring-2022/pages/lecture-notes/).] 
+* First, there is a pre-processing step in which the sentence is analyzed into its [syntax tree](https://en.wikipedia.org/wiki/Parse_tree).[^1] 
 * There's some data type $S$ such that each phrase will be assigned a token of that type, which we might call its semantic representation. Specifically, we will say each phrase is assigned a vector in $\mathbb{R}^n$, but we will remain open to considering alternative types.
 * There are some tokens given to some smallest base units. We could take these atoms to be words or small phrases. (E.g. "Barack Obama" should maybe be a base unit, even though it's not a single word.)
 * To obtain the representation for a phrase consisting of two subphrases (let's assume we have a syntax tree system where every non-atomic phrase consists of two subphrases), we apply some operation $m\colon S\times S\to S$, which we call the (semantic) [merge](https://en.wikipedia.org/wiki/Merge_(linguistics)) map.
@@ -93,3 +93,5 @@ think thru what i actually do when i answer questions about barack obama! look a
 		* unfortunately idk much about obama's involvement in these. but i guess i can guess some generic stuff
 	* now i ask: how else might i find thoughts about obama's policy positions?
 		* i could think through different political things. like, do i know anything about what obama did in tax policy? in education policy? on like inflation and federal reserve stuff? eg this reminds me that maybe he did quantitative easing, which is like printing money or something? i looked this up and yea it's sth like the central bank saying "we have money now" and buying government bonds with it, which did sth like giving the government money to do stuff with (tho they have to pay it back in the future right?) and pushing up bond prices relative to other stuff so people invest more?? i guess the money created out of thin air will also be destroyed by the central bank when paid back by the government?
+
+[^1]: There are somewhat different ways to do this. I'm not going to worry about the details for now. I'm familiar with the system taught in [this course](https://ocw.mit.edu/courses/24-900-introduction-to-linguistics-spring-2022/pages/lecture-notes/).

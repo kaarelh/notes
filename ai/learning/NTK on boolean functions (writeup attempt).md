@@ -19,7 +19,7 @@ In all of the following, let $G$ be a group.
 
 > Definition. We say the kernel $K$ is $G$-invariant if for all $x,x'\in G$ and $g\in G$, we have $K(gx,gx')=K(x,x')$.
 
-Remark: Equivalently, a kernel $K$ is $G$-invariant if and only if is a function $g\colon G\to \mathbb{R}$ such that for all $x,x'\in G$ we have $K(x,x')=g(x^{-1} x')$.^[In fact, $g(x)=K(1,x)$.] (That is, a kernel is $G$-invariant iff it only depends on the "difference" of the elements.)
+Remark: Equivalently, a kernel $K$ is $G$-invariant if and only if is a function $g\colon G\to \mathbb{R}$ such that for all $x,x'\in G$ we have $K(x,x')=g(x^{-1} x')$.[^1] (That is, a kernel is $G$-invariant iff it only depends on the "difference" of the elements.)
 
 Now consider the vector space $V$ of all functions $f\colon G\to \mathbb{C}$, and assume we have a kernel $G$-invariant kernel $K$ on $G$.
 > Definition. Define the $K$-convolution $C_K\colon V\to V$ by $(C_K f)(x)=\sum_{x'}K(x,x')f(x')$. (Note that $C_K$ is a linear operator on $V$.)
@@ -51,3 +51,5 @@ The merged-staircase property: a necessary and nearly sufficient condition for S
 wait why is there a norm independent of the inputs again... hmm i guess we have these feature vecs and some coeffs on them right. and the norm of the coeffs on the feature vecs is a thing that makes sense without reference to which inputs are involved
 
  In particular, for the group $G$ whose element set is $\{-1,1\}^n$ and whose operation $*$ is the hadamard product of vectors (so $G\cong(\mathbb{Z}/(2\mathbb{Z}))^n$). Its 
+
+[^1]: In fact, $g(x)=K(1,x)$.

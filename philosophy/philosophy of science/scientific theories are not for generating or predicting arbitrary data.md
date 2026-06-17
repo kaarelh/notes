@@ -3,7 +3,8 @@ You could gather all the text, videos, etc. on the internet and create some sort
 
 
 * Our physical theories are very different types of things than generative models. A theory provides a conception that, in the presence of a great deal of other stuff — including "common-sense understanding of the world" and know-how/skills for using that theory — can be used by a human to do various things, 
-* Try solving a physics problem — for example, pick any problem from [here](https://www.feynmanlectures.caltech.edu/info/exercises.html).^[Or, if you'd like a harder problem, I recommend the selections [here](https://eupho.ee/archive/) and [here](https://physicscup.ee/archive/).] Think about whether the answer can be deduced from our theories of physics alone, or if you really needed a bunch of other stuff 
+* Try solving a physics problem — for example, pick any problem from [here](https://www.feynmanlectures.caltech.edu/info/exercises.html).[^1] Think about whether the answer can be deduced from our theories of physics alone, or if you really needed a bunch of other stuff 
 * A physicist armed with theories of physics can make predictions (and invent invent/build tech, etc.), but the theories alone couldn't make predictions, and this is just not just because 
 * a scientific explanation 
 
+[^1]: Or, if you'd like a harder problem, I recommend the selections [here](https://eupho.ee/archive/) and [here](https://physicscup.ee/archive/).

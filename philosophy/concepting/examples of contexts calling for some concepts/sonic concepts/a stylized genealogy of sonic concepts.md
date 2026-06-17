@@ -14,7 +14,7 @@ the following are all interesting questions one could be trying to answer:
 # examples of sounds
 
 * wind, rain, leaves rustling
-* birdsong^[music from birdsong: https://youtu.be/cUD4ED5hezQ]
+* birdsong[^1]
 * frog sounds
 * human speech
 * human singing
@@ -24,7 +24,7 @@ the following are all interesting questions one could be trying to answer:
 * sounds made by human-made machinery (traffic, home appliances)
 # examples of concepts
 
-we could have a data set of recordings of musical pieces^[just like with some standard method described here: https://en.wikipedia.org/wiki/Digital_audio . i guess we could eg be using a membrane to measure pressure and recording those (quantized) measurements?]. what kinds of concepts are sorta there in those recordings? it would be neat to automatically get all of the following more "external" things:
+we could have a data set of recordings of musical pieces[^2]. what kinds of concepts are sorta there in those recordings? it would be neat to automatically get all of the following more "external" things:
 * a partition of the pieces into genres. maybe even getting a sense that the pieces came about at different times, and getting a sense of their ordering? also, a partition by culture/country? maybe even getting a sense that there's a globe, with cultures corresponding to regions on it?
 * a partition of the pieces by composer; also, a partition by performer. or given that two people can sometimes be playing together and sometimes not, maybe we want a property for each performer saying whether that performer was involved. we could also have a "had the same performer" relation, or maybe a fuzzy relation ( https://www.sciencedirect.com/topics/earth-and-planetary-sciences/fuzzy-relation ) (ie weighted (di)graph with weights in $[0,1]$) to account for performers sometimes being partly shared and partly different
 * a partition by instrument, or a (fuzzy) property for each instrument capturing its involvement
@@ -152,9 +152,9 @@ i'm not confident here but i think it's probably basically as follows:
 * ok so now you have certain springs vibrating — namely those whose natural frequencies are present in the sound. and each spring has like a nerve next to it, with the nerves which are next to high-amplitude springs getting activated. now you've sorta done sth like a fourier transform i guess!
 ## why do we hear pitch? why is it natural to hear pitch?
 
-* some objects make sounds at particular pitches: strings, pipes/flutes, bottles/ocarinas; (well-tuned) bells and (well-tuned^[https://wtt.pauken.org/]) kettledrums^[https://www.youtube.com/watch?v=PRTxPJfCKhY], also, but those are harder to get to make nice sounds; sorta but not really: hanging any solid object up and hitting it (these have a discrete spectrum by sth like https://en.wikipedia.org/wiki/Dirichlet_eigenvalue i think — it's just that the overtones are usually "not harmonic"). in brief: it is natural to make pitched sounds
+* some objects make sounds at particular pitches: strings, pipes/flutes, bottles/ocarinas; (well-tuned) bells and (well-tuned[^3]) kettledrums[^4], also, but those are harder to get to make nice sounds; sorta but not really: hanging any solid object up and hitting it (these have a discrete spectrum by sth like https://en.wikipedia.org/wiki/Dirichlet_eigenvalue i think — it's just that the overtones are usually "not harmonic"). in brief: it is natural to make pitched sounds
 * maybe: it is fairly easy to make a device that measures pitch? or maybe a device that performs a fourier transform of a pressure time series? (such a device can look like what's described in the previous subsection. it would be interesting to see if the same design has been invented independently more times by evolution or humanity.)
-* there is an obvious regularity in the pressure time sequence: it sorta looks like sth repeating a bunch of times. roughly, the sorta-period of this is the pitch. maybe we should see pitch as coming from this regularity, maybe from some associated sort of "prediction task".^[is there something that should be said in general about regularities typically having quantities attached? i guess this is false in general — eg an object staying together doesn't that naturally have a quantity attached?]
+* there is an obvious regularity in the pressure time sequence: it sorta looks like sth repeating a bunch of times. roughly, the sorta-period of this is the pitch. maybe we should see pitch as coming from this regularity, maybe from some associated sort of "prediction task".[^5]
 * pressure time series are sparse in the fourier basis i think! i haven't thought this through carefully but i think this has to do with https://en.wikipedia.org/wiki/Dirichlet_eigenvalue and https://en.wikipedia.org/wiki/Spectral_theorem#The_spectral_theorem_for_compact_self-adjoint_operators . and this should be the only basis in which the time series is sparse, right!?
 	* wait no, not that sparse. or like, there are other countable bases which have some amplitude sequence, right, like polynomials (you can also make these orthonormal if you like) ( https://en.wikipedia.org/wiki/Orthonormal_basis ), so this doesn't make the fourier basis so special! i guess there could be some further nice fact about the amplitudes dropping off really quickly in the fourier basis, maybe, but is it really the best basis on that metric? (it might be!) anyway, i think we can see that it is more special because of translation invariance or sth. like coeffs sorta unchanged if you translate? this has to do with fourier basis elts being characters of [$\mathbb{R}$ with addition]
 		* wait in fact the fourier basis decompositions we want to say are somehow natural are not even into a countable basis — or maybe we are changing the basis from signal to signal — if we want to say there is one basis element for each real-number-frequency
@@ -241,3 +241,9 @@ Gestalt psychology: https://en.wikipedia.org/wiki/Gestalt_psychology
 Auditory scene analysis: https://en.wikipedia.org/wiki/Auditory_scene_analysis
 
 META-HODOS: https://monoskop.org/images/1/13/Tenney_James_Meta-Hodos_and_Meta_Meta-Hodos.pdf
+
+[^1]: music from birdsong: https://youtu.be/cUD4ED5hezQ
+[^2]: just like with some standard method described here: https://en.wikipedia.org/wiki/Digital_audio . i guess we could eg be using a membrane to measure pressure and recording those (quantized) measurements?
+[^3]: https://wtt.pauken.org/
+[^4]: https://www.youtube.com/watch?v=PRTxPJfCKhY
+[^5]: is there something that should be said in general about regularities typically having quantities attached? i guess this is false in general — eg an object staying together doesn't that naturally have a quantity attached?

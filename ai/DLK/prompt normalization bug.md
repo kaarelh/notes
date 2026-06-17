@@ -81,7 +81,7 @@ oh wait but high-low is in fact doable! it's done in the input! so i guess maybe
 
 status (epistemic and otherwise): putting ideas out there, proposing a framing, heuristic reasoning, lab note, bug report
 ## Introduction
-In this piece, I will (1) present an informal framework for thinking about features in models^[I do not make a claim to novelty re this framework], (2) justify the mean-normalization step of [CCS](https://arxiv.org/pdf/2212.03827.pdf) in terms of this framework, (3) describe a silly little normalization bug that plagued a CCS-extension [codebase](https://github.com/EleutherAI/elk) for months, (4) explain how the feature framework can/must be amended with context-dependent features to make sense of the damage caused by this bug, (5) discuss whether the same data can be made sense of in a discrete picture with different features, and use this framing to (6) suggest possible improvements on probing, as well as (7) possible improvements on representation removal.
+In this piece, I will (1) present an informal framework for thinking about features in models[^1], (2) justify the mean-normalization step of [CCS](https://arxiv.org/pdf/2212.03827.pdf) in terms of this framework, (3) describe a silly little normalization bug that plagued a CCS-extension [codebase](https://github.com/EleutherAI/elk) for months, (4) explain how the feature framework can/must be amended with context-dependent features to make sense of the damage caused by this bug, (5) discuss whether the same data can be made sense of in a discrete picture with different features, and use this framing to (6) suggest possible improvements on probing, as well as (7) possible improvements on representation removal.
 
 ## Concepts $\iff$ directions in activation space
 I will explain the correspondence between concepts and directions in activation space
@@ -130,8 +130,4 @@ the binary interpretation here would be that there are e.g. two different featur
 
 `
 
-
-
-
-
-
+[^1]: I do not make a claim to novelty re this framework

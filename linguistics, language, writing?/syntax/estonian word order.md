@@ -2,7 +2,7 @@
 Estonian allows very many word orders. This is quite common in languages which attach role-markers to words. That sorta makes sense, because in a language which does not attach role-markers, moving words around can make it hard to understand what role a word is playing — for instance, ""
 
 Jaan vaidleb Kadriga.
-Jaan-nominative argues Kadri-with^[this is the *comitative* case].
+Jaan-nominative argues Kadri-with[^1].
 John is arguing with Katherine.
 
 It's probably reasonable to say that the above is the main word order for this 3-word sentence — I'm pretty sure it's the order that would have the highest frequency in a large enough corpus of texts. Estonian is primarily an SVO language. However, of the $3!=6$ orderings of these $3$ words, various others are also possible. We discuss all orderings below. 
@@ -38,3 +38,5 @@ The other two orderings above are also allowed in this relative clause as well. 
 * Ma ei mõista, miks Kadriga vaidleb Jaan.
 	* meaning: I don't understand why John is arguing with Katherine.
 	* This again stresses "John", and asks why it is John and not someone else that is arguing with Katherine.
+
+[^1]: this is the *comitative* case

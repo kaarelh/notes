@@ -68,7 +68,7 @@ have k-dim subspace in n+1 dims. now this is the same as a half-space of dim k i
 
 # a refinement of the previous attempt
 
-Fix $V$, a generic $k$-dimensional subspace of $\mathbb{R}^n$, but forget for each coordinate which direction is positive vs negative, determining these with independent fair coinflips. Let $p(n,k)$ denote the probability that the $k$-dimensional subspace comes to contain a positive vector.^[A priori, we might think that $p(n,k)$ could depend on $V$, but it turns out not do do so as long as $V$ is generic. Note that one can sample a random subspace by first sampling a random subspace and then flipping a coin for whether to flip each coordinate axis or not, so proving that we get a certain constant probability of containing a positive vector in the conditional setup above also proves that one gets the same probability if one just picks a random subspace.] Let $q(n,k)$ denote the probability that if one flips $n-1$ fair coins, one gets at most $k-1$ heads.
+Fix $V$, a generic $k$-dimensional subspace of $\mathbb{R}^n$, but forget for each coordinate which direction is positive vs negative, determining these with independent fair coinflips. Let $p(n,k)$ denote the probability that the $k$-dimensional subspace comes to contain a positive vector.[^1] Let $q(n,k)$ denote the probability that if one flips $n-1$ fair coins, one gets at most $k-1$ heads.
 
 > Proposition. $p(n,k)=q(n,k)$.
 
@@ -94,7 +94,7 @@ Summing the probabilities of getting a positive vector up across the two conditi
 
 > Remark 1. Note that the probability of containing a positive vector is also the number of orthants hit by the subspace divided by $2^n$, so we've also determined that a generic subspace strictly intersects with $2\sum_{i=0}^{k-1}\binom{n-1}{i}$ orthants.
 
-> Remark 2. Since orthants that $V$ passes through are in bijection with regions that $V$ is cut into by restrictions of the $n$ coordinate hyperplanes to $V$, and since we can choose a generic $V$ to get any generic arrangement of $n$ hyperplanes passing through the origin in $\mathbb{R}^k$ we like,^[This requires proof I guess. By looking at the normal vectors of the hyperplanes, one can reduce it to finding $n$ orthogonal vectors with desired restrictions into $\mathbb{R}^k$, and I think it's not too bad to see that this is possible for generic vectors (also getting a generic subspace out again).] we've also determined that a generic arrangement of $n$ hyperplanes passing through the origin in $\mathbb{R}^k$ has $2\sum_{i=0}^{k-1}\binom{n-1}{i}$ regions. 
+> Remark 2. Since orthants that $V$ passes through are in bijection with regions that $V$ is cut into by restrictions of the $n$ coordinate hyperplanes to $V$, and since we can choose a generic $V$ to get any generic arrangement of $n$ hyperplanes passing through the origin in $\mathbb{R}^k$ we like,[^2] we've also determined that a generic arrangement of $n$ hyperplanes passing through the origin in $\mathbb{R}^k$ has $2\sum_{i=0}^{k-1}\binom{n-1}{i}$ regions. 
 
 > Remark 3. Take the standard hyperoctahedron in dimension $n$ — the convex hull of the standard basis and its reflection across the origin, i.e., the convex hull of the $2n$ vectors $\pm e_1,\pm e_2,\ldots, \pm e_n$. Slice through it with a random $k$-dimensional subspace; the shadow it leaves on the subspace is a $k$-dimensional polytope. How many facets (i.e., $d-1$-dimensional faces) does this polytope have? The above implies that (with probability $1$) it has exactly  $2\sum_{i=0}^{k-1}\binom{n-1}{i}$ faces. 
 
@@ -127,4 +127,5 @@ if two different regions have the same leximinimal point, then
 
 oh wait. there's some rewrite of this in terms of taking a region and going to its lexicographically minimal point i think. or like in abs value on coords. like push last coords to 0
 
-
+[^1]: A priori, we might think that $p(n,k)$ could depend on $V$, but it turns out not do do so as long as $V$ is generic. Note that one can sample a random subspace by first sampling a random subspace and then flipping a coin for whether to flip each coordinate axis or not, so proving that we get a certain constant probability of containing a positive vector in the conditional setup above also proves that one gets the same probability if one just picks a random subspace.
+[^2]: This requires proof I guess. By looking at the normal vectors of the hyperplanes, one can reduce it to finding $n$ orthogonal vectors with desired restrictions into $\mathbb{R}^k$, and I think it's not too bad to see that this is possible for generic vectors (also getting a generic subspace out again).

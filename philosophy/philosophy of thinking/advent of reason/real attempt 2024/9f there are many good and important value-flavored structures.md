@@ -1,6 +1,6 @@
 # 9 there are many good and important value-flavored structures
 1. Humanity is engaged in various projects, goal pursuits, activities, and there are various value/valuing-flavored (i.e., in contrast to understanding-flavored) structures present. 
-2. All the following "structure kinds" are significantly value-flavored and important for determining what happens, and most/all of them have good instances/manifestations (and all of them surely also have bad manifestations)^[this is not an exhaustive list; the classes have overlap and would be hard to make intelligible except in the context of other classes and can be merges of multiple pretty different things]:
+2. All the following "structure kinds" are significantly value-flavored and important for determining what happens, and most/all of them have good instances/manifestations (and all of them surely also have bad manifestations)[^1]:
 	1. engaging in projects; also, the various particular projects we have already committed ourselves to
 	2. meaning
 	3. doing x in order to do y
@@ -52,7 +52,7 @@
 	49. becoming more powerful
 	50. becoming more capable/skillful/smart
 	51. inventing/building/improving/maintaining/repairing devices/tools/methods/ideas; devices/tools/methods/ideas being discovered and coming into use and becoming more effective 
-	52. asking which projects can be made progress on with a tool/method (and making progress on them)^[for example, think about this in academia]
+	52. asking which projects can be made progress on with a tool/method (and making progress on them)[^2]
 	53. coming up with and making trades, reciprocity, helping others; cooperation; friendship; love; relating richly; creating connections
 	54. drawing analogies
 	55. the golden rule
@@ -76,9 +76,9 @@
 	1. One way to end up at this view is to take a step back from this complex of value-structures (like we are doing in this note) and say "wow, I can and should re-evaluate all of these things; indeed, there is a (hidden) Criterion/Goal in me that guides me in doing that; so, what structures of these various forms should be present is downstream of this Criterion/Goal of mine". My response:
 		1. Esteemed interlocutor, I agree it is appropriate to subject these structures to revision (perhaps even more radically than you think).
 		2. That said, let us go about this process of revision together? (I think we're already going about it together (though you could perhaps decide to go about it alone) — I'm mostly just trying to get you to see that, here.)
-		3. And much more importantly (and even if you try to go about this revision alone), these various structures are not just objects to this process of revision, but also centrally present in the process of revision — many of them will be involved in determining what steps of revision are taken. How else would it look like to appropriately unfold your Criterion? Like, there is not some fundamental secret [value/valuing]-structure in you guiding this process which is so distinct in character from the variety of [value/valuing]-structures that the list given above tries to point at (though the list is of course missing various important [value/valuing]-structures).^[More understanding-flavored thinking-structures are of course also involved in the process.]
-		4. Relatedly, I don't think this revision of structures happens first and then (the rest of) life gets lived later, once structures have been brought into accordance with your supposed Criterion — I think these things will (and should) to a significant extent happen together.^[Also, even if you think that "the time of ethical thought will end", I think you'd still be too fixated on what happens "at the end of time" — you are a more "timeful" being, with many projects which will have long lost their significance by "the end of time" in any case, but which still matter to you a great deal now.]
-	2. At this point, the interlocutor could instead (or more precisely) say: "the totality of these value-structures can be seen from the outside as implementing some sort of criterion on action or whom to be or what kind of world to make or something". This, I pretty much agree with^[I agree with it in the weak version presented here; I might disagree with some stronger versions.], taking care to note that the criterion/goal one would attribute to a process might not look much like any criterion/goal inside the process.
+		3. And much more importantly (and even if you try to go about this revision alone), these various structures are not just objects to this process of revision, but also centrally present in the process of revision — many of them will be involved in determining what steps of revision are taken. How else would it look like to appropriately unfold your Criterion? Like, there is not some fundamental secret [value/valuing]-structure in you guiding this process which is so distinct in character from the variety of [value/valuing]-structures that the list given above tries to point at (though the list is of course missing various important [value/valuing]-structures).[^3]
+		4. Relatedly, I don't think this revision of structures happens first and then (the rest of) life gets lived later, once structures have been brought into accordance with your supposed Criterion — I think these things will (and should) to a significant extent happen together.[^4]
+	2. At this point, the interlocutor could instead (or more precisely) say: "the totality of these value-structures can be seen from the outside as implementing some sort of criterion on action or whom to be or what kind of world to make or something". This, I pretty much agree with[^5], taking care to note that the criterion/goal one would attribute to a process might not look much like any criterion/goal inside the process.
 	3. The next notes discuss such questions further.
 
 
@@ -88,3 +88,9 @@
 often having taken work to identify as worthwhile
 
 Some precisifications of the imagined intelocutor speak like there is some deep secret [value/valuing]-structure in their heart, distinct in character from the totality of the many [value/valuing]-structures active in the world (including those named in this note and surely also other important ones missed in this note), that should be guiding the unfolding. This seems ridiculous!]
+
+[^1]: this is not an exhaustive list; the classes have overlap and would be hard to make intelligible except in the context of other classes and can be merges of multiple pretty different things
+[^2]: for example, think about this in academia
+[^3]: More understanding-flavored thinking-structures are of course also involved in the process.
+[^4]: Also, even if you think that "the time of ethical thought will end", I think you'd still be too fixated on what happens "at the end of time" — you are a more "timeful" being, with many projects which will have long lost their significance by "the end of time" in any case, but which still matter to you a great deal now.
+[^5]: I agree with it in the weak version presented here; I might disagree with some stronger versions.

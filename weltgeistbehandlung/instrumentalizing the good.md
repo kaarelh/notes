@@ -1,5 +1,5 @@
 
-Sometimes, a (terminally) good thing becomes (also) instrumentally good. This is often done intentionally to support the good thing. For instance, maybe you think learning math is good. To learn more math, you might commit to donating some money to an organization you consider bad each day you don't learn enough math. Or you can attend university and be rewarded (in good grades and in a high GPA and a diploma and friendships) for learning math there.^[There are also other reasons attending a university is good for learning math, but I think t]
+Sometimes, a (terminally) good thing becomes (also) instrumentally good. This is often done intentionally to support the good thing. For instance, maybe you think learning math is good. To learn more math, you might commit to donating some money to an organization you consider bad each day you don't learn enough math. Or you can attend university and be rewarded (in good grades and in a high GPA and a diploma and friendships) for learning math there.[^1]
 
 you can attend university and be rewarded for learning math there. You can 
 
@@ -60,5 +60,7 @@ Suppose you can spin up a human or an AI to do a task for you. Suppose that the 
 
 # a general model
 
-there are a bunch of processes. each process generates some amount of points "intrinsically"^["intrinsically" as opposed to getting points from others. i guess we could have a system in which there is no intrinsic point generation also] somehow (eg maybe in a human mind you have some a type of "intrinsic reward signal" being allocated to each thing; eg in an economy maybe each guy produces something or more simply has a salary). now you have processes "pay other processes" for their time, ie get some resource/service/help from them or whatever and allocate some points to them. 
+there are a bunch of processes. each process generates some amount of points "intrinsically"[^2] somehow (eg maybe in a human mind you have some a type of "intrinsic reward signal" being allocated to each thing; eg in an economy maybe each guy produces something or more simply has a salary). now you have processes "pay other processes" for their time, ie get some resource/service/help from them or whatever and allocate some points to them. 
 
+[^1]: There are also other reasons attending a university is good for learning math, but I think t
+[^2]: "intrinsically" as opposed to getting points from others. i guess we could have a system in which there is no intrinsic point generation also

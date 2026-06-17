@@ -1,7 +1,7 @@
 
 ## Finding a good version of conservatism
 
-At the end of the day, we (looking at an AI system from the outside) want to not have the AI system take actions which are too likely to lead to harm.^[I don't think this is really it, as I think it's better to think in terms of expected utilities instead, but I'll grant that we want to minimize the probability of harm for this discussion.] Let $P'(H|a)$ denote our probability that the action $a$ being take would lead to harm.
+At the end of the day, we (looking at an AI system from the outside) want to not have the AI system take actions which are too likely to lead to harm.[^1] Let $P'(H|a)$ denote our probability that the action $a$ being take would lead to harm.
 
 * Looking at things from the outside, our decision rule should be to only let an action through if $P'(H|a)<\delta$, for some fixed $\delta$. But how do we come up with a reasonable $P'(H|a)$?
 * Well, we're assuming we have a conditional probability estimator which can tell us $P(H|a)$ for any action $a$. Why not just do the obvious thing of checking whether $P(H|a)<\delta$ to decide whether to let the action $a$ through the filter?
@@ -31,3 +31,5 @@ Still, maybe I should also say more about why I'm suspicious
 
 * This part cannot do any heavy lifting.
 	* I guess this means that if you guys think that this part needs to do some heavy lifting, then conditional on you being right, I'm ~certain that the plan doesn't work
+
+[^1]: I don't think this is really it, as I think it's better to think in terms of expected utilities instead, but I'll grant that we want to minimize the probability of harm for this discussion.

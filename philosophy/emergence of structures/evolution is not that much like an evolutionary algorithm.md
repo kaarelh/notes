@@ -1,5 +1,5 @@
 
-* how did life get started at all. how did cell membranes arise^[https://science.gsfc.nasa.gov/sed/content/uploadFiles/publication_files/Deameretal2002.pdf]. what else is needed for something to be happening? maybe this is a silly question bcs something is happening always — it's just getting faster and faster. still, it'd be nice to have a list of main steps
+* how did life get started at all. how did cell membranes arise[^1]. what else is needed for something to be happening? maybe this is a silly question bcs something is happening always — it's just getting faster and faster. still, it'd be nice to have a list of main steps
 * $2.7\times 10^9$ years ago: have some folding happen which separates your dna from the rest of the stuff inside you. now there are eukaryotes
 * at roughly the same time(??): big guy eats small guy, wait wtf the small guy didn't die? it's just living inside now, somehow? okay i guess we have cells with mitochondria now
 	* also now the bigger guy has more dna damage because the mitochondria are polluting it? so evolution goes faster? wtf
@@ -37,3 +37,5 @@ kirke: "muideks siuke raamat juba 30 aastat tagasi kirjutatud ja bioloogid selle
 # references
 
 The Evolution of Evolution: https://gwern.net/doc/genetics/selection/natural/2019-bonner.pdf
+
+[^1]: https://science.gsfc.nasa.gov/sed/content/uploadFiles/publication_files/Deameretal2002.pdf

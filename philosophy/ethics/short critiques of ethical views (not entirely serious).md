@@ -1,7 +1,7 @@
 
 # hedonic utilitarianism
 
-* it just seems really arbitrary to say that the only thing that matters is happiness, for any simple notion of "happiness"^[i'm adding this because maybe there could be a sophisticated/rich/developing notion of happiness given which the view would be more defensible (though still probably misguided)]?
+* it just seems really arbitrary to say that the only thing that matters is happiness, for any simple notion of "happiness"[^1]?
 * surely there can be activities of equal happiness but very different value?
 * also, why would we be integrating some quantity over time (as some variants of hedonic utilitarianism would ask us to do), as opposed to structures with temporal extent mattering in a different fashion? why would only human-like systems "carry" value, and not eg families and communities and cultural/scientific/mathematical/philosophical movements and societies and humanity as a whole?
 
@@ -14,3 +14,5 @@
 # virtue ethics
 
 woo-woo nonsense. ahh, so i should 
+
+[^1]: i'm adding this because maybe there could be a sophisticated/rich/developing notion of happiness given which the view would be more defensible (though still probably misguided)

@@ -1,6 +1,6 @@
 
 
-some general things i'm hoping to get from (examining myself) solving physics olympiad problems:^[meta: the point of this is to make myself somewhat better at tracking useful things as i'm solving a problem. i'm not intending to be well-answering all of these as i'm solving a single problem]
+some general things i'm hoping to get from (examining myself) solving physics olympiad problems:[^1]
 * understanding more about how thinking works
 	* what kinds of moves for solving problems are in my arsenal?
 	* what kinds of structures are being constructed/improved/maintained as i'm solving a problem?
@@ -35,3 +35,5 @@ some general things i'm hoping to get from (examining myself) solving physics ol
 	* what are the obstacles to doing the same thing for physics problems?
 	* could we imagine coding such a thing at least in restricted cases?
 	* 
+
+[^1]: meta: the point of this is to make myself somewhat better at tracking useful things as i'm solving a problem. i'm not intending to be well-answering all of these as i'm solving a single problem

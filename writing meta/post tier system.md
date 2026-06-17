@@ -13,8 +13,10 @@ some axes that get aggregated into the tier:
 * quantity of good ideas (a larger constellation of good ideas is better)
 * density of good ideas (higher density of good ideas is better)
 * relevance for doing stuff that matters for de-AGI-x-risk-ing (higher is better). (really I think this is already strongly tracked by my notion of a good idea, but I'm making this explicit just in case. if you want, interpret the previous bullet points as talking about ideas which are philosophically interesting from some point of view less attached to our current historical context)
-* definitiveness (like: $\approx$"closing" various obvious threads is good; responding to obvious objections is good; leaving everything dangling is bad^[of course really there are always extremely many new questions raised by any piece of intellectual work. still, i think we can make sense of some standard of having done some obvious easy things adjacent to the hard thing you did that eg math papers sometimes aspire to)
+* definitiveness (like: $\approx$"closing" various obvious threads is good; responding to obvious objections is good; leaving everything dangling is bad[^1]
 * care put into phrasings being correct. making quite precisely the claims I want to make. having been thoughtful about the language used
 * ease of reading
 * funniness/playfulness
 * literature-awareness. understanding good prior work on the question/topic is good
+
+[^1]: of course really there are always extremely many new questions raised by any piece of intellectual work. still, i think we can make sense of some standard of having done some obvious easy things adjacent to the hard thing you did that eg math papers sometimes aspire to
