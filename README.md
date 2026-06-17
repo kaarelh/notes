@@ -8,110 +8,110 @@ This repository hosts some of [my](https://kaarelh.github.io/) personal notes fr
 * Still, the notes are obviously evidence of what I think. If you see from a note that I'm wrong about something and write to me and help me see that I was wrong about it, I'll be grateful. Ditto for offering me better methods/conceptions/models/ideas/concepts/words/designs.
 * An assortment of 101 items from the repository:
 	* **AI safety presentation slides** (or really self-contained slideuments):
-		* Variants of the alignment problem (at the AFFINE Superintelligence Alignment Seminar)
-		* Verification-based alignment schemes (at the AFFINE Superintelligence Alignment Seminar)
-		* Inspection of thinking as a source of ideas for understanding minds (at the AFFINE Superintelligence Alignment Seminar)
-		* Model-wise thinking (at the AFFINE Superintelligence Alignment Seminar)
-		* Intro to AGI safety (at the University of Tartu)
-		* Impact cases for guardrails/monitoring/verification (at Mila)
-		* Why fear a math AI? (at Mila)
+		* [Variants of the alignment problem (at the AFFINE Superintelligence Alignment Seminar)](https://github.com/kaarelh/notes/blob/main/ai/presentations/variants%20of%20the%20alignment%20problem.pdf)
+		* [Verification-based alignment schemes (at the AFFINE Superintelligence Alignment Seminar)](https://github.com/kaarelh/notes/blob/main/ai/presentations/verification-based%20alignment%20schemes.pdf)
+		* [Inspection of thinking as a source of ideas for understanding minds (at the AFFINE Superintelligence Alignment Seminar)](https://github.com/kaarelh/notes/blob/main/ai/presentations/inspection%20of%20thinking%20as%20a%20source%20of%20ideas%20for%20understanding%20minds.pdf)
+		* [Model-wise thinking (at the AFFINE Superintelligence Alignment Seminar)](https://github.com/kaarelh/notes/blob/main/ai/presentations/model-wise%20thinking.pdf)
+		* [Intro to AGI safety (at the University of Tartu)](https://github.com/kaarelh/notes/blob/main/ai/presentations/intro%20to%20AGI%20safety%20%28for%20ML-ish%20people%29.pdf)
+		* [Impact cases for guardrails/monitoring/verification (at Mila)](https://github.com/kaarelh/notes/blob/main/ai/presentations/impact%20cases%20for%20guardrails_monitoring_verification.pdf)
+		* [Why fear a math AI? (at Mila)](https://github.com/kaarelh/notes/blob/main/ai/presentations/why%20fear%20a%20math%20AI.pdf)
 	* **on human futures, facing AGI**:
-		* instead of building a very different artificial system which is smarter than us, let's just become smarter (tentatively indefinitely)
-		* what is weltgeistbehandlung?
-		* [protection via instrumentalization] / [instrumentalizing the good]
-		* if you're trying to make a super-human non-human system, you should still have making humanity a top understander again in mind
-		* we should grow immensely but with great care
-		* a human future isn't petty
+		* [instead of building a very different artificial system which is smarter than us, let's just become smarter (tentatively indefinitely)](https://github.com/kaarelh/notes/blob/main/philosophy/philosophy%20of%20thinking/advent%20of%20reason/real%20attempt%202024/19%20instead%20of%20building%20a%20very%20different%20artificial%20system%20which%20is%20smarter%20than%20us%2C%20let%27s%20just%20become%20smarter%20%28tentatively%20indefinitely%29.md)
+		* [what is weltgeistbehandlung?](https://github.com/kaarelh/notes/blob/main/weltgeistbehandlung/what%20is%20weltgeistbehandlung%3F.md)
+		* [protection via instrumentalization](https://github.com/kaarelh/notes/blob/main/philosophy/valuing/protection%20via%20instrumentalization.md) / [instrumentalizing the good](https://github.com/kaarelh/notes/blob/main/weltgeistbehandlung/instrumentalizing%20the%20good.md)
+		* [if you're trying to make a super-human non-human system, you should still have making humanity a top understander again in mind](https://github.com/kaarelh/notes/blob/main/philosophy/philosophy%20of%20thinking/advent%20of%20reason/real%20attempt%202024/22%20to%20make%20humanity%20keep%20being%20the%20smartest%20thing%20around%2C%20what%20should%20we%20do%3F.md)
+		* [we should grow immensely but with great care](https://github.com/kaarelh/notes/blob/main/philosophy/philosophy%20of%20thinking/advent%20of%20reason/real%20attempt%202024/21%20we%20should%20grow%20immensely%20but%20with%20great%20care.md)
+		* [a human future isn't petty](https://github.com/kaarelh/notes/blob/main/philosophy/philosophy%20of%20thinking/advent%20of%20reason/real%20attempt%202024/23%20a%20human%20future%20isn%27t%20petty.md)
 	* **metaphysics**:
-		* a toy setting for studying some technological phenomena
-		* human math and alien math are pretty orthogonal
-		* scaling laws satisfied by mathematical things
-		* a world of purposes
-		* standard physics implies infinite computation causally downstream of us along certain extremely low (and decaying) amplitude quantum branches
-		* [wherefore discreteness] and [emergence of structures]
+		* [a toy setting for studying some technological phenomena](https://github.com/kaarelh/notes/blob/main/philosophy/philosophy%20of%20technology/a%20toy%20setting%20for%20studying%20some%20technological%20phenomena.md)
+		* [human math and alien math are pretty orthogonal](https://github.com/kaarelh/notes/blob/main/philosophy/philosophy%20of%20thinking/advent%20of%20reason/real%20attempt%202024/15f%20human%20math%20and%20alien%20math%20are%20pretty%20orthogonal.md)
+		* [scaling laws satisfied by mathematical things](https://github.com/kaarelh/notes/blob/main/philosophy/philosophy%20of%20mathematics/scaling%20laws%20satisfied%20by%20mathematical%20things.md)
+		* [a world of purposes](https://github.com/kaarelh/notes/blob/main/philosophy/philosophy%20of%20doing/a%20world%20of%20purposes.md)
+		* [standard physics implies infinite computation causally downstream of us along certain extremely low (and decaying) amplitude quantum branches](https://github.com/kaarelh/notes/blob/main/philosophy/metaphysics/standard%20physics%20implies%20infinite%20computation%20causally%20downstream%20of%20us%20along%20certain%20extremely%20low%20%28and%20decaying%29%20amplitude%20quantum%20branches.md)
+		* [wherefore discreteness](https://github.com/kaarelh/notes/blob/main/philosophy/metaphysics/wherefore%20discreteness%3F.md) and [emergence of structures](https://github.com/kaarelh/notes/tree/main/philosophy/emergence%20of%20structures)
 	* **valuing, ethics, metaethics:**
-		* mundane malignity
-		* it is natural for a mind to remake the world
-		* terminality causes unmooredness
-		* seeing (meta)ethics clearer via mathematical logic
-		* centering ethics on coming up with ways to act
-		* there are many good and important value-flavored structures
-		* the epistemics-ethics bridge
-		* in one sense, human values are very complicated; in another sense, human values are very simple
-		* argument against universal value extraction device
-		* an illustration of the role of understanding-machinery in value development
-		* on good reflection processes
-		* trajectories of moral-reflective flight — an alternative to reflective equilibrium
-		* [some thoughts on consequentialist ethics in large worlds] and [an ethical problem relating to existence]
-		* [examples of structure-making] and [why copy-making?]
-		* on pursuing ideals
-		* the anima mundi analogy
+		* [mundane malignity](https://github.com/kaarelh/notes/blob/main/philosophy/valuing/mundane%20malignity.md)
+		* [it is natural for a mind to remake the world](https://github.com/kaarelh/notes/blob/main/ai/alignment%20general/it%20is%20natural%20for%20a%20mind%20to%20remake%20the%20world.md)
+		* [terminality causes unmooredness](https://github.com/kaarelh/notes/blob/main/philosophy/valuing/terminality%20causes%20unmooredness.md)
+		* [seeing (meta)ethics clearer via mathematical logic](https://github.com/kaarelh/notes/blob/main/philosophy/philosophy%20of%20thinking/g%C3%B6del/seeing%20%28meta%29ethics%20clearer%20via%20mathematical%20logic.md)
+		* [centering ethics on coming up with ways to act](https://github.com/kaarelh/notes/blob/main/philosophy/ethics/possibilizing.%20centering%20ethics%20on%20coming%20up%20with%20ways%20to%20act.md)
+		* [there are many good and important value-flavored structures](https://github.com/kaarelh/notes/blob/main/philosophy/philosophy%20of%20thinking/advent%20of%20reason/real%20attempt%202024/9f%20there%20are%20many%20good%20and%20important%20value-flavored%20structures.md)
+		* [the epistemics-ethics bridge](https://github.com/kaarelh/notes/blob/main/philosophy/remarks/the%20epistemics-ethics%20bridge.md)
+		* [in one sense, human values are very complicated; in another sense, human values are very simple](https://github.com/kaarelh/notes/blob/main/philosophy/ethics/values%20are%20complicated%3B%20also%2C%20values%20are%20simple.md)
+		* [argument against universal value extraction device](https://github.com/kaarelh/notes/blob/main/philosophy/metaethics/argument%20against%20universal%20value%20extraction%20device.md)
+		* [an illustration of the role of understanding-machinery in value development](https://github.com/kaarelh/notes/blob/main/philosophy/valuing/an%20illustration%20of%20the%20role%20of%20understanding-machinery%20in%20value%20development.md)
+		* [on good reflection processes](https://github.com/kaarelh/notes/blob/main/philosophy/metaethics/on%20good%20reflection%20processes.md)
+		* [trajectories of moral-reflective flight — an alternative to reflective equilibrium](https://github.com/kaarelh/notes/blob/main/philosophy/ethics/Trajectories%20of%20moral-reflective%20flight%20%E2%80%94%20an%20alternative%20to%20reflective%20equilibrium.md)
+		* [some thoughts on consequentialist ethics in large worlds](https://github.com/kaarelh/notes/blob/main/philosophy/ethics/some%20thoughts%20on%20consequentialist%20ethics%20in%20large%20worlds.md) and [an ethical problem relating to existence](https://github.com/kaarelh/notes/blob/main/philosophy/ethics/an%20ethical%20problem%20relating%20to%20existence.md)
+		* [examples of structure-making](https://github.com/kaarelh/notes/blob/main/philosophy/ethics/examples%20of%20structure-making.md) and [why copy-making?](https://github.com/kaarelh/notes/blob/main/philosophy/ethics/why%20copy-making%3F.md)
+		* [on pursuing ideals](https://github.com/kaarelh/notes/blob/main/philosophy/decision%20theory/on%20pursuing%20ideals.md)
+		* [the anima mundi analogy](https://github.com/kaarelh/notes/blob/main/philosophy/philosophy%20of%20thinking/the%20anima%20mundi%20analogy.md)
 	* **on understanding**:
-		* good concepts are concepts that support inferences
-		* predicting specific things
-		* model-thinking in mathematics
-		* how categoricity (or universal properties) relate to the implementation of mental structures
-		* gaining the integral notion
-		* cheap inferences
-		* turning activity-situations into abstract games
-		* a stylized genealogy of sonic concepts
+		* [good concepts are concepts that support inferences](https://github.com/kaarelh/notes/blob/main/philosophy/concepting/good%20concepts%20are%20concepts%20that%20support%20inferences.md)
+		* [predicting specific things](https://github.com/kaarelh/notes/blob/main/philosophy/prediction/predicting%20specific%20things.md)
+		* [model-thinking in mathematics](https://github.com/kaarelh/notes/blob/main/philosophy/philosophy%20of%20understanding/model-thinking%20in%20mathematics.md)
+		* [how categoricity (or universal properties) relate to the implementation of mental structures](https://github.com/kaarelh/notes/blob/main/philosophy/philosophy%20of%20thinking/how%20categoricity%20%28or%20universal%20properties%29%20relate%20to%20the%20implementation%20of%20mental%20structures.md)
+		* [gaining the integral notion](https://github.com/kaarelh/notes/blob/main/philosophy/concepting/gaining%20concepts/gaining%20the%20integral%20notion.md)
+		* [cheap inferences](https://github.com/kaarelh/notes/blob/main/philosophy/philosophy%20of%20thinking/cheap%20inferences.md)
+		* [turning activity-situations into abstract games](https://github.com/kaarelh/notes/blob/main/philosophy/philosophy%20of%20doing/turning%20activity-situations%20into%20abstract%20games.md)
+		* [a stylized genealogy of sonic concepts](https://github.com/kaarelh/notes/blob/main/philosophy/concepting/examples%20of%20contexts%20calling%20for%20some%20concepts/sonic%20concepts/a%20stylized%20genealogy%20of%20sonic%20concepts.md)
 		* condensation:
-			* condensation coefficients from scale-freeness
-			* condensation coefficients compatible with the loss being a positive combination of subset losses
-			* linear condensation
-			* limitations of condensation
-			* condensation coding (todo: link folder)
+			* [condensation coefficients from scale-freeness](https://github.com/kaarelh/notes/blob/main/philosophy/concepting/condensation/condensation%20coefficients%20from%20scale-freeness.md)
+			* [condensation coefficients compatible with the loss being a positive combination of subset losses](https://github.com/kaarelh/notes/blob/main/philosophy/concepting/condensation/condensation%20coefficients%20compatible%20with%20the%20loss%20being%20a%20positive%20combination%20of%20subset%20losses.md)
+			* [linear condensation](https://github.com/kaarelh/notes/blob/main/philosophy/concepting/condensation/linear%20condensation.md)
+			* [limitations of condensation](https://github.com/kaarelh/notes/blob/main/philosophy/concepting/condensation/limitations%20of%20condensation.md)
+			* [condensation coding](https://github.com/kaarelh/notes/tree/main/philosophy/concepting/condensation/condensation%20coding)
 	* **mathematical questions about ideal inductions**:
-		* polytime solomonoff
-		* solomonoff function induction (link both)
-		* solomonoff axiom induction
-		* circuit occam learning
-		* for circuit induction, regret and complexity are polynomially related
-		* do bayes-NNs have the kolmogorov prior? (answer: no)
-		* a silly NNbayes generalization result
+		* [polytime solomonoff](https://github.com/kaarelh/notes/blob/main/ai/learning/solomonoff%20induction/polytime%20solomonoff%20%28response%20to%20lucius%29.md)
+		* [solomonoff function induction](https://github.com/kaarelh/notes/blob/main/ai/learning/solomonoff%20induction/solomonoff%20function%20induction.md) ([pdf](https://github.com/kaarelh/notes/blob/main/ai/learning/solomonoff%20induction/solomonoff%20function%20induction.pdf))
+		* [solomonoff axiom induction](https://github.com/kaarelh/notes/blob/main/ai/learning/solomonoff%20induction/solomonoff%20axiom%20induction.md)
+		* [circuit occam learning](https://github.com/kaarelh/notes/blob/main/ai/learning/circuit%20solomonoff/circuit%20occam%20learning.md)
+		* [for circuit induction, regret and complexity are polynomially related](https://github.com/kaarelh/notes/blob/main/ai/learning/circuit%20solomonoff/for%20circuit%20induction%2C%20regret%20and%20complexity%20are%20polynomially%20related.md)
+		* [do bayes-NNs have the kolmogorov prior? (answer: no)](https://github.com/kaarelh/notes/blob/main/ai/learning/NN%20bayes%20generalization/kolmogorov%20prior%20in%20NNs%3F.md)
+		* [a silly NNbayes generalization result](https://github.com/kaarelh/notes/blob/main/ai/learning/NN%20bayes%20generalization/a%20silly%20NN%20bayes%20generalization%20result)
 	* **on ideal inductions and attempts to use them to handle the AGI problem in principle**:
-		* could one do science with solomonoff on text?
-		* a better attempt at getting science out of solomonoff
-		* solomonoff function induction gives at least some const probability to bad behavior on ood inputs
-		* solomonoff induction is weird
-		* which input-output pairs does solomonoff induction need to see to generalize correctly?
-		* beating solomonoff induction at grokking a notion
-		* solomonoff induction is not the paragon of generalization
+		* [could one do science with solomonoff on text?](https://github.com/kaarelh/notes/blob/main/philosophy/prediction/scientific%20reports%20from%20a%20predictive%20model/could%20one%20do%20science%20with%20solomonoff%20on%20text%3F.md)
+		* [a better attempt at getting science out of solomonoff](https://github.com/kaarelh/notes/blob/main/philosophy/prediction/scientific%20reports%20from%20a%20predictive%20model/a%20better%20attempt%20at%20getting%20science%20out%20of%20solomonoff.md)
+		* [solomonoff function induction gives at least some const probability to bad behavior on ood inputs](https://github.com/kaarelh/notes/blob/main/philosophy/prediction/solomonoff%20function%20induction%20gives%20at%20least%20some%20const%20probability%20to%20bad%20behavior%20on%20ood%20inputs.md)
+		* [solomonoff induction is weird](https://github.com/kaarelh/notes/blob/main/philosophy/prediction/solomonoff%20induction%20is%20weird.md)
+		* [which input-output pairs does solomonoff induction need to see to generalize correctly?](https://github.com/kaarelh/notes/blob/main/philosophy/prediction/which%20input-output%20pairs%20does%20solomonoff%20function%20induction%20need%20to%20see%20to%20generalize%20correctly%3F.md)
+		* [beating solomonoff induction at grokking a notion](https://github.com/kaarelh/notes/blob/main/philosophy/philosophy%20of%20thinking/beating%20solomonoff%20induction%20at%20grokking%20a%20notion.md)
+		* [solomonoff induction is not the paragon of generalization](https://github.com/kaarelh/notes/blob/main/ai/learning/solomonoff%20induction/solomonoff%20induction%20is%20not%20the%20paragon%20of%20generalization.pdf)
 	* **philosophy of language, philosophy of science, epistemology**
-		* between verificationism and holism
-		* some disanalogies between solomonoff induction and science
-		* some considerations with an eye toward specifying a picture of meaning
-		* compositional inference warranting
-		* the correct theory of semantics
-		* formalizing philosophy
-		* assigning probabilities in a conception of the world you know to be inadequate
+		* [between verificationism and holism](https://github.com/kaarelh/notes/blob/main/philosophy/philosophy%20of%20language/meaning%20and%20truth/between%20verificationism%20and%20holism.md)
+		* [some disanalogies between solomonoff induction and science](https://github.com/kaarelh/notes/blob/main/philosophy/philosophy%20of%20science/some%20disanalogies%20between%20solomonoff%20induction%20and%20science.md)
+		* [some considerations with an eye toward specifying a picture of meaning](https://github.com/kaarelh/notes/blob/main/philosophy/philosophy%20of%20language/meaning%20and%20truth/some%20considerations%20with%20an%20eye%20toward%20specifying%20a%20picture%20of%20meaning.md)
+		* [compositional inference warranting](https://github.com/kaarelh/notes/blob/main/philosophy/philosophy%20of%20language/meaning%20and%20truth/compositional%20inference%20warranting%20%28a%20view%20of%20meaning%29.md)
+		* [the correct theory of semantics](https://github.com/kaarelh/notes/blob/main/philosophy/philosophy%20of%20language/meaning%20and%20truth/the%20correct%20theory%20of%20semantics.md)
+		* [formalizing philosophy](https://github.com/kaarelh/notes/blob/main/ai/verification%20and%20generation/formalizing%20philosophy.pdf)
+		* [assigning probabilities in a conception of the world you know to be inadequate](https://github.com/kaarelh/notes/blob/main/philosophy/epistemology/probabilities/assigning%20probabilities%20in%20a%20conception%20of%20the%20world%20you%20know%20to%20be%20inadequate.md)
 	* **interpretability**:
-		* understanding a NN in terms of what it is doing
-		* merge machines
-		* readability of independent predicates implies steering vector existence and a sort of linear decomposability
-		* some superposition geometry math
-		* a memorizing construction
-		* hyperparams we'd want to know for a theory of interpretability that studying toy models could help determine
-		* a remark on the value of philosophy for understanding AIs
+		* [understanding a NN in terms of what it is doing](https://github.com/kaarelh/notes/blob/main/ai/interp%20general/understanding%20a%20NN%20in%20terms%20of%20what%20it%20is%20doing.md)
+		* [merge machines](https://github.com/kaarelh/notes/blob/main/ai/language%20modeling/merge%20machines.md)
+		* [readability of independent predicates implies steering vector existence and a sort of linear decomposability](https://github.com/kaarelh/notes/blob/main/ai/structures%20in%20representations/readability%20of%20independent%20predicates%20implies%20steering%20vector%20existence%20and%20some%20sort%20of%20linear%20decomposability%20also.md)
+		* [some superposition geometry math](https://github.com/kaarelh/notes/blob/main/ai/toy%20models%20%28interp%29/some%20superposition%20math.pdf)
+		* [a memorizing construction](https://github.com/kaarelh/notes/blob/main/ai/memorization/a%20memorizing%20construction.md)
+		* [hyperparams we'd want to know for a theory of interpretability that studying toy models could help determine](https://github.com/kaarelh/notes/blob/main/ai/interp%20general/hyperparams%20we%27d%20want%20to%20know%20for%20a%20theory%20of%20interp%20that%20studying%20toy%20models%20could%20help%20determine.md)
+		* [a remark on the value of philosophy for understanding AIs](https://github.com/kaarelh/notes/blob/main/ai/alignment%20general/a%20remark%20on%20the%20value%20of%20philosophy%20for%20understanding%20AIs.md)
 	* **uncategorized AI safety**:
-		* messages on a lab preparing for RSI
-		* RSI structure hyperparams
-		* a list of alignment training tricks
-		* a statement of the alignment problem
-		* an argument for faster takeoff
-		* some good questions in conceptual alignment
-		* cases of verification
-		* shortlist of approaches to getting research papers given a hypercomputer
-		* mind uploads with ML (and specifically prediction)
-		* some ideas for safe self-improvement
-		* safe self-improvement is much easier than the AGI problem we face
-		* intention-setting speech for AFFINE seminar
-		* some hyperparam changes for the field of non-prosaic alignment
+		* [messages on a lab preparing for RSI](https://github.com/kaarelh/notes/blob/main/ai/alignment%20general/messages%20on%20a%20lab%20preparing%20for%20RSI.md)
+		* [RSI structure hyperparams](https://github.com/kaarelh/notes/blob/main/ai/alignment%20general/RSI%20structure%20hyperparameters.md)
+		* [a list of alignment training tricks](https://github.com/kaarelh/notes/blob/main/ai/alignment%20training%20tricks/a%20list%20of%20alignment%20training%20tricks.md)
+		* [a statement of the alignment problem](https://github.com/kaarelh/notes/blob/main/ai/alignment%20general/a%20statement%20of%20the%20alignment%20problem.md)
+		* [an argument for faster takeoff](https://github.com/kaarelh/notes/blob/main/ai/alignment%20general/argument%20for%20faster%20takeoff%20sent%20to%20AI2027%20ppl.md)
+		* [some good questions in conceptual alignment](https://github.com/kaarelh/notes/blob/main/ai/alignment%20general/some%20good%20questions%20to%20ponder%20to%20understand%20alignment/some%20good%20questions%20in%20conceptual%20alignment.md)
+		* [cases of verification](https://github.com/kaarelh/notes/blob/main/ai/verification%20and%20generation/cases%20of%20verification.md)
+		* [shortlist of approaches to getting research papers given a hypercomputer](https://github.com/kaarelh/notes/blob/main/ai/research%20from%20hypercomputer/what%20are%20the%20approaches%20to%20getting%20novel%20research%20papers%20given%20a%20lot%20of%20compute%3F.md)
+		* [mind uploads with ML (and specifically prediction)](https://github.com/kaarelh/notes/tree/main/ai/mind%20uploads%20with%20ML%20%28and%20prediction%20in%20particular%29)
+		* [some ideas for safe self-improvement](https://github.com/kaarelh/notes/blob/main/philosophy/philosophy%20of%20fooming/some%20ideas%20for%20safe%20self-improvement.md)
+		* [safe self-improvement is much easier than the AGI problem we face](https://github.com/kaarelh/notes/blob/main/ai/alignment%20general/safe%20self-improvement%20is%20much%20easier%20than%20the%20AGI%20problem%20we%20face.md)
+		* [intention-setting speech for AFFINE seminar](https://github.com/kaarelh/notes/blob/main/ai/alignment%20teaching/intention-setting%20speech%20for%20AFFINE%20seminar.md)
+		* [some hyperparam changes for the field of non-prosaic alignment](https://github.com/kaarelh/notes/blob/main/ai/alignment%20general/some%20hyperparam%20changes%20for%20the%20field%20of%20non-prosaic%20alignment.md)
 	* **varia**:
-		* be careful about internal deference
-		* estonian word order
-		* suboptimalities in written language
-		* a look at russell's paradox
-		* many diagonalizations under one roof
-		* [geometric probability puzzles] and [probability that a random subspace contains a positive vector]
+		* [be careful about internal deference](https://github.com/kaarelh/notes/blob/main/philosophy/epistemology/deference/maybe%20be%20careful%20about%20internal%20deference%3F.md)
+		* [estonian word order](https://github.com/kaarelh/notes/blob/main/linguistics%2C%20language%2C%20writing%3F/syntax/estonian%20word%20order.md)
+		* [suboptimalities in written language](https://github.com/kaarelh/notes/blob/main/linguistics%2C%20language%2C%20writing%3F/suboptimalities%20in%20%28written%29%20language.md)
+		* [a look at russell's paradox](https://github.com/kaarelh/notes/blob/main/logic/a%20look%20at%20russell%27s%20paradox.md)
+		* [many diagonalizations under one roof](https://github.com/kaarelh/notes/blob/main/logic/many%20diagonalizations%20under%20one%20roof.md)
+		* [geometric probability puzzles](https://github.com/kaarelh/notes/blob/main/math/talks/geometric%20probability%20puzzles.md) and [probability that a random subspace contains a positive vector](https://github.com/kaarelh/notes/blob/main/math/probability/probability%20that%20a%20random%20subspace%20contains%20a%20positive%20vector.md)
 * Acknowledgments. Most importantly, I've benefited from discussions with Sam Eisenstat, Jake Mendel, Simon Skade, and Kirke Joamets, and from [essays by Tsvi Benson-Tilsen](https://www.alignmentforum.org/users/tsvibt). See [here](https://www.alignmentforum.org/posts/nkeYxjdrWBJvwbnTr/an-advent-of-thought#:~:text=Acknowledgments.%20I%20have,forgetting.%5B9%5D) for a longer list of good people.
