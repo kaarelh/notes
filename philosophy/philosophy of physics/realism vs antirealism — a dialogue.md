@@ -1,0 +1,8 @@
+
+realist: lots of things exist. to say something exists is a meaningful statement. for example, whales and quarks exist. they really really do! the natural numbers probably also exist! really!
+
+anti-realist: frankly, i don't even know what you're talking about. i guess my position is some combination of thinking (1) these things probably don't exist and/or (2) what you take as reasons for their existence are not really reasons for their existence and/or, most likely, (3) it makes no sense to talk about whether they do exist in the sense that you hope to talk about that.
+
+realist: well, i think my claims about electrons and grandparents existing make sense insofar as anything makes sense, but i admit that while i can provide various restatements — for electrons to exist is for them to be really there, for the universe to really contain electrons, etc. — i cannot provide some elucidatory translation to more basic terms, which seems to be the kind of thing you'd want to have. anyway, i think my position is probably closer to what people believe by default (or at least the surface sentences i produce to state my position would probably mostly be endorsed), so The Rules of Philosophy dictate that it'd be most productive to start by having you argue in favor of your position
+
+anti-realist: i wouldn't really take endorsements of surface-level utterances very seriously, but whatever, sure, i'll try to outline a case. a very brief case is this: i think the two of us basically agree on how to do science, but imo you then insist on making some spooky assertions that are completely unhelpful for doing science

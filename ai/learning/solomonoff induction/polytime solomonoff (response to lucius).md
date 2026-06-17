@@ -1,0 +1,45 @@
+
+(disclaimers: I haven't checked all the technical claims completely carefully and I haven't completely convinced myself that what I'll say is non-vacuous.)
+
+Let's say a prediction algorithm $P$ takes as its input an initial segment of length $n$ of an infinite sequence of bits, and its job is to predict bit $n+1$, so it outputs a probability that the next bit is $0$. We can speak of prediction algorithms whose runtime is polynomial in $n$, or prediction algorithms whose runtime is some particular polynomial, e.g. $O(n^2)$. I think there are theorems sorta like what you want for either. (It also works for other time complexity classes.) Here's the version for a particular polynomial:
+Thm. For any polynomial $p(n)$, there is a predictor $S$ with runtime $p(n)\log n$ (here, the $\log n$ could be replaced by any arbitrarily slowly growing computable function), such that for any prediction algorithm $P$ with runtime $O(p(n))$, the log loss $S$ gets on any sequence of bits (like, predicting all the bits in sequence, not just one bit) is worse than the log loss $P$ gets on it by at most a constant $c_P$ (that is, the loss difference (ie regret) depends on $P$, but it doesn't grow with $n$, the length of the sequence).
+
+Remark 1: This implies the same theorem, but with "log loss on any sequence of bits" replaced by "expected log loss with any probability distribution over sequences of bits". That is, $S$ doesn't lose too much to any predictor $P$ on any "hidden ground truth" probability distribution.
+
+Remark 2: It's sorta reasonable to say that losing by a constant in $\log$ loss on the entire sequence is "not too much" because you can lose a constant in log loss by just being silly (e.g. predicting 50/50) on some finite initial sequence and then predicting perfectly after, which we should maybe forgive. It also means your expected log loss per bit averaged over an initial sequence of length $n$ is going to $0$ faster than $1/n$, and $1/n$ is maybe a small amount of log loss per bit? (That said, the constant $c_P$ could of course be very large.)
+
+Remark 3: The theorem contains a slight lie: $S$ is not actually a time $p(n)\log n$ prediction algorithm in the sense defined above, because the $S$ which I have in mind needs to be doing predictions in sequence, reusing some stuff calculated when predicting bit $n$ to predict bit $n+1$. So the theorem is sorta comparing apples to oranges, because the prediction algorithm $P$ doesn't have this privilege. But actually, one can just also give this privilege to $P$ and get an apples to apples comparison then, so the theorem is true with this other definition of a prediction algorithm. But the proof I have of the apples to apples version where we also give this privilege to $P$ requires an additional idea (and I already wrote most of this msg before figuring this out), so let me finish explaining the apples to oranges version before I get to that.
+
+ Construction of $S$: We use the solomonoff induction idea: you just take all possible algorithms with prior weights depending on their description lengths as hypotheses (with a length $k$ code getting prior $2.001^{-k}$ or whatever, with the right normalizing constant), do bayesian updating to update their weights, and output their aggregate prediction. Of course, there are two issues: (1) some algorithms run too long and (2) there are too many algorithms. These issues can be handled as follows:
+1) To fix the issue that algorithms could in principle run too long (or not halt at all), you only run each algorithm for (at most) $p(n)\log \log n$ steps, and then:
+	1. if it produced an output which is a number in $[0,1]$, then great, you treat that as its prediction for the next bit;
+	2. if it doesn't halt or if it outputs something which isn't a number in $[0,1]$, just ignore it and write down that its output was $1/2$, ie giving even odds for the next bit.
+2) To fix the issue that there are too many algorithms, you only first start running each algorithm at some point during the process. Specifically, you make it so that by time $n$, you're only running the first $\log \log n$ Turing machines. You make predictions as if every hypothesis which you aren't calculating out yet was giving even odds to the next bit. When you first start actually tracking an algorithm on some step $\ell$, its starting weight will be as if it had been predicting $1/2$ up until that point, so its prior times $2^{-\ell}$. 
+Note that $S$ needs to run for $O(p(n)\log \log n\times \log\log n)=O(p(n)\log n)$ steps per prediction bit to carry out these simulations and weight updates and make a prediction (assuming it has the weights available from the previous step). 
+
+Pf of the thm for this $S$: Any particular prediction algorithm $P$ with runtime $O(p(n))$ will start being tracked at some time $\ell_1$ (depending on the algorithm) and will also run faster than $p(n)\log\log n$ on any input after some time $\ell_2$. At $\ell=\max (\ell_1,\ell_2)$, the weight given to the algorithm will be off by at most $2^{-\ell}$ compared to if it were "tracked properly" from the start, and after that, the hypothesis will be "tracked properly" forever. This means that the probability $S$ gives to any sequence of bits will be at least the probability $P$ gives to it times $2^{-\ell}$, which means that the $\log_2$ loss $S$ gets is worse than that of $P$ by at most $\log_2 2^{\ell}=\ell$. Since $\ell=c_P$ is indeed a constant depending only on $P$ (and not on the length of the sequence $n$), we're done.
+
+Addressing remark 3: One can get the theorem to be an apples to apples comparison, letting $P$ also see calculation done on previous bits (like $S$ does), giving it $O(p(n))$ for each next bit. The naive way to do it involves running the entirety of $P$'s previous computation when it gets booted up on step $\ell$, but this is bad because it could take like $p(\ell)\ell$ time, which would cause $S$ to have runtime like $p(n) n \log n$, so this is not what we do. Instead, we amortize this calculation, treating the first $\ell$ time steps after it gets booted up as a warm-up period during which it slowly catches up to speed on the sequence — more precisely, during these $\ell$ steps, we keep faking its predictions to be $1/2$, while we're simulating it running through the existing sequence at $2$ bits per bit, so it catches up after $\ell$ steps.
+
+Technical remark about this way to address remark 3: Okay, I think there's some annoying issue here if your Turing machine only has a 1d tape from having to walk from one part of the tape to another potentially dominating the runtime, but I'm pretty sure things are fine (possibly up to some other error term that can be made arbitrarily small) in the RAM model ( https://en.wikipedia.org/wiki/Random-access_machine ).
+
+Remark 4. You can do the same stuff to get a Solomonoff predictor against the class of all polytime predictors which runs in time $n^{\omega(1)}$ for any computable function $\omega(1)$ growing arbitrarily slowly.
+
+
+
+
+# mess
+
+you just run all possible algorithms for $p(n)\log \log n$ steps, keep all the ones which output a number in $[0,1]$ (just ignore the ones which do not halt or which output something else), and aggregate these predictions with weights depending on specification lengths, so e.g. with an algorithm that takes $k$ bits to specify getting weight ${2.01}^{-k}/9999999$. By aggregating, I just mean summing their outputs with these weights and outputting that as your prediction. And your weights won't add up to $1$, but you just say 
+
+and a theorem with this privilege taken away from $S$, but I think these theorems will need to let $S$ run for time $p(n)n \log n$ — i.e., $S$ would then need to be slower than $P$ by a factor of $n$. I don't know how if one can get an apples to apples theorem without losing this factor for particular polynomials. (One can get an apples to apples theorem for the class of polynomial time algorithms though.)
+
+because to run in time $p(n)\log n$ per bit, it will need to see its computation when predicting previous bits. Like, $S$ in fact not an algorithm that looks at the first $n$ bits and predicts bit $n+1$, but it 
+
+
+
+Let's say a prediction algorithm is something that takes in $n$  and gives a probability distribution for the next bit 
+
+The only trick is that of course you can't run all the algorithms from $n=0$ because there are infinitely many of them, but you fix this by only starting to run each algorithm at some large $n$ (which depends on the algorithm). More precisely, you make it so by time $n$, you've only started running the first $\log \log n$ many algorithms (note that this still means you eventually start running any algorithm, at some constant $n$ for that algorithm). This way, the total runtime for predicting bit $n+1$ is $O(p(n)\log \log n\times \log \log n)=O(p(n)\log n)$. 
+
+Pf of the thm. 

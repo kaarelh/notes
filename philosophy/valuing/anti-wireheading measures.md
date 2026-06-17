@@ -1,0 +1,9 @@
+
+it is bad to be like this: i'm trying to make it so in the future i think there is a lot of diamond
+
+standard solution: judge plans according to whether they lead to a lot of diamond, not whether they lead to thinking there is a lot of diamond
+
+how about thinking: i will need to understand more, without that diamond thing in mind. though maybe i will be understanding more stuff that is relevant to diamonds and making diamonds — some version of this is certainly fine. i will want things to be so that after this process and various actions not harming my understanding, i think there is a lot of diamond
+
+msg to jeremy:
+"I think I stand by calling the planning algorithm we discussed at the end of our meeting "wirehead-y". Like, the planning algorithm asks: what action sequence would make this guy think later that a lot of diamond exists. This is pushing toward making a lot of diamond, but also pushing toward making the guy wrongly think there is more diamond than there really is. If the guy is always right about how much diamond there is, then the planning algorithm works well. But this is somewhat like saying wireheading is impossible if the diamond count parameter in your head necessarily tracks the real thing. I agree there are some worse kinds of wireheading that are not possible with this planning algorithm — like rewriting the parameter in your head directly, not via the given actions, observations -> brain state map. But also there are less wirehead-y planning algorithms (though idk how to write them down in our setting), like thinking about how much diamond each action sequence would make. This planning algorithm is less wirehead-y because it is not searching for ways to confuse your future self about the amount of diamond there is. (This planning algorithm is still goodharting against mistakes in your current understanding, but that's a different less wirehead-y thing than trying to confuse your future self.)"

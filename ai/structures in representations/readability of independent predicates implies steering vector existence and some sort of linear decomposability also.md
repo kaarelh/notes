@@ -1,0 +1,12 @@
+
+* suppose we have $m$ predicates whose 0/1 values are readable with eps error from representation vectors in $\mathbb{R}^n$ of some objects
+* suppose the different predicate values are independent of each other (like, the objects are drawn from some distribution such that this is true)
+* then one can construct a steering vector for each predicate. a construction:
+	* average all the object representation vectors on which the predicate is 1 and subtract the average of all the object representation vectors on which the predicate is 0
+	* one can check reading this with the covector for this predicate gives 1 and reading it with any other covector gives 0, up to our error eps allowed for object reps
+	* this means that the vector can be used to "steer": one can add this to any object rep to create an object rep that looks to readoffs as if it had all the same property values except this single property is changed, up to error 2eps
+* if predicates are sparse enough, then we can use this to give a linear decomposition of each object representation, much like in SAEs, up to an error vector that "looks small/orthogonal to the predicates" (which could however be much bigger in $L^2$ than the sum of steering vectors)
+	* take an object. sum all the steering vectors for its predicates which are 1. note that if sparsity is at most 1/(3eps), this has all the correct readoff values up to error 1/3. so the diff between this and the given object rep has all readoffs at most 1/3+eps, ie it is orthogonal/small from the POV of the readoffs. so we have a desired decomposition of the object rep: it's just the sum of steering vectors plus this diff vector that looks orthogonal/small to all readoffs
+* here we see that it is possible to pass from the existence of covectors to there being a way to decompose into vectors!
+* unfortunately, as stated, this method relies on knowing what the predicates are. so it's not unsupervised / it doesn't make sense as a thing one could just do to LLM activations.
+* if one had a way to find the predicates, one could then use this method though. in this toy example, generically one should be able to find predicates by just looking for directions in which one sees 0/1 behavior, as opposed to a more gaussian distribution. maybe a tad more generally, one can look for directions that are far from gaussian. this sort of thing could perhaps be turned into a method that could be used on LLM activations

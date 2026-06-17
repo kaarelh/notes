@@ -1,0 +1,2 @@
+
+one worry is sth like you learn how to do usual things and then your mind gets filled with usual person stuff, you just see what everyone else does, this is plausibly a fine way to be but less good for research progress probably? and any other kind of creative thing? also just possibly less fun, exploration is fun

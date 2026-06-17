@@ -1,0 +1,3 @@
+
+one thing that helps one notice structures in this universe is that they sometimes are nicely located in space. like, a tree is made of atoms which are next to each other. you can notice a tree by seeing a colored patch. if you've never heard of trees, if you look around on earth, you will see many of them instantly, and recognize them as things. you won't recognize them as TREES in the usual sense of the word because you won't understand enough about them yet, but you will see that there are some things here, and this is enough to start an investigation that could lead to you understanding them as TREES later.
+

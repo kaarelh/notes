@@ -1,0 +1,6 @@
+
+idea from Dmitry Vaintrob I think
+
+suppose dot prod $<-\varepsilon$ for all pairs from $m$ vecs. take a vec, all other stuff has to be on cap opposite to it. one can show by a 3d geometry argument that sliding all vectors to the boundary of this cap can't hurt their pairwise dot prods (this depends on them already being on "other sides of the cap")
+
+so now have $m-1$ vecs on a sphere of dim $n-1$, of new radius $\sqrt{1-\varepsilon^2}$, with dot prods all less than $-\varepsilon-\varepsilon^2$. Rescaling this sphere to be a unit sphere again, the new constraint is that dot prods have to be less than $\frac{-\varepsilon-\varepsilon^2}{1-\varepsilon^2}=-\frac{\varepsilon}{1-\varepsilon}$. The recursion $x_{i+1}=\frac{x_{i}}{1-x_{i}}$ can also be written as $\frac{1}{x_{i+1}}=\frac{1}{x_i}-1$, so after $\left\lfloor \frac{1}{\varepsilon}\right\rfloor$ steps, we are down to $\frac{1}{x}<1$, which means that we can only have one vector on the last sphere. so $m\leq \frac{1}{\varepsilon}+1$.

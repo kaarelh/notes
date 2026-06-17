@@ -1,0 +1,2 @@
+
+suppose we can talk about models of a theory inside a theory. suppose we can state what it means for something to be a model of the theory formally inside a theory. then doesn't the completeness thm let us define truth as provability in all models? wait no obviously not. that's just necessity or something more like that, semantic implication 

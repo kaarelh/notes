@@ -1,0 +1,4 @@
+
+an observation: As long as the input comes with just a separate neuron for each feature (more generally: as long as the features form a basis of the input space), as far as the 1-sparse case is concerned, the layers before the bottleneck layer might as well be replaced with just a linear map (one can just map each feature to whatever the bottleneck layer activation is when it is the input in the initial setup). Can we use the helpfulness of pre-processing layers as an indication of how dense features are then? or maybe of how many there are? maybe some combination?
+
+instead of training one on a full batch of activations from inputs, try to pick some sets of inputs that we think are quite similar to each other, so we would generally expect to differ only in the values

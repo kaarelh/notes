@@ -1,0 +1,7 @@
+argument 98% from eisenstat
+
+let joint be given by n by n random matrix with 0/1 entries, 1 with prob p, normalized. then one can check that for p<1/(2e) (probably higher p is actually also fine but this is what one needs for a naive union bound i think.), there are no 'rectangles' of ones larger than the one-column or 1-row ones. but a common information thing has to write this as a sum of such rectangles. so all rectangles in this sum have size at most pn. so given common info variable, the entropy of (x,y) is at most log pn (this is the max entropy of anything with support of size at most pn). so mutual info of common info variable with x,y is at least h(x,y)-log pn=h(x) (and also h(y)) (almost - maybe could change to matrix with exactly pn in each row and col if care, or just argue more carefully as it will still be true im almost sure that x or y are the best choices). note that h(x) mutual info is also always possible — just pick the common info variable to be x. so we have a matching lower and upper bound, so here the common info is exactly h(x) = log n $\approx$ h(x,y)/2
+
+however, the mutual info is small. knowing x narrows down y from uniform to uniform on pn, so mutual info is log n - log (pn) = log p, which is a const
+
+so here we have an example where the common info grows as about half the joint entropy as the joint entropy goes to infty, but the mutual info stays const

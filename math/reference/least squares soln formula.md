@@ -1,0 +1,2 @@
+
+In least-squares linear regression, are minimizing $\lVert Ax-b\rVert ^2$, with given $A,b$, across $x$. We can decompose $b=b_A+b_{A^\perp}$, where $b_A\in \text{Col}(A)$ and $b_{A^\perp}\in \text{Col}(A)^\perp$. Then it is easy to see that $\min \lVert Ax-b\rVert ^2 = \lVert b_{A^\perp}\rVert^2$, and thus $x$ is optimal iff $Ax-b$ is orthogonal to $\text{Col}(A)$, which is equivalent to $A^T(Ax-b)=0$, which is equivalent to $A^T A x = A^T b$, which is just a linear equation.

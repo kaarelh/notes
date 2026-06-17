@@ -1,0 +1,4 @@
+
+in the info theory case. could just use wyner's thing at $X_1,\ldots,X_n$ to get a common part and independent parts. then could look at the distribution conditional on any value of the common part, and ask again for the common parts of subsets of size $n-1$. here are two issues that come up:
+* how do the common parts for different values of the big common part relate to each other? wouldn't we want to unify these?
+* what do we do after we have this layer of common parts to get the next one? what do we condition on? conditioning on everything above you might eg just make $X_i$ uniquely determined in quite broad generality, which seems weird, because we'd want there to be something in the lower latents also

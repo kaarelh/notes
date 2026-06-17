@@ -1,0 +1,1 @@
+(I'm not sure I capture this well with the title. I would like to talk about how anything one says can be viewed as manipulation for whatever it causes people to believe, but the important thing is to not try to manipulate people. Similarly with e.g. ideology taught in schools.)

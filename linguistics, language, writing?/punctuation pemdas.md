@@ -1,0 +1,2 @@
+project of world-historical significance: come up with a sentence with many reasonable readings depending on which punctuation parsing order one assumes, ie a more sophisticated (and just better) version of 
+“Adam was throwing a tantrum — Bob had commented harshly on Adam’s demeanor; Charlie thought his behavior in this instance was quite poor — so nothing good could have come of this situation”

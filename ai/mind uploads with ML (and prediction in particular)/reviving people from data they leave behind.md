@@ -1,0 +1,2 @@
+
+reviving people from data they leave behind is a very relevant problem to making mind uploads with ML. in fact it's just a somewhat harder version of the general problem — it's a version where we have some further restrictions when solving it

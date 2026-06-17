@@ -1,0 +1,2 @@
+
+this is probably nonsense. but what if you had like decoherence effectively pull stuff a bit closer... no this doesn't make sense right?? you'd also have this for things much further. and we probably know that's not the case? hmm idk. why haven't we tested MOND stuff for the gravitational attraction between different galaxies? does it get too weak to be measurable at all, even for galaxies in the same cluster?

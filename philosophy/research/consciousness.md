@@ -1,0 +1,30 @@
+
+I'm leaning towards thinking I'm no longer that confused about consciousness/awareness/feeling like something. I expect essentially all of what I'm about to say to have been said already, but I thought writing up this brief note explaining consciousness would help me check/clarify my thinking, and I am interested in counterarguments.
+
+Before getting to the meat of the explanation, a crucial preliminary claim is that if we provide an adequate explanation of the causes of consciousness-talk, then we have explained consciousness. The intuition behind this claim is simple: when you're like, "wow i'm conscious right now, i'm aware, isn't that cool", presumably you being conscious is in fact of the causal chain (on an appropriate level of abstraction) that causes you to say this. Some views reject this, but I'm quite confident these views are absurd when seen clearly, and I think Eliezer Yudkowsky provides a great exposition in https://www.lesswrong.com/posts/7DmA3yWwa6AT5jFXt/zombies-redacted.
+
+I will not say precisely what I mean by "an adequate explanation". I added this qualifier to clarify that even if it turned out that we talk about consciousness because we were visited by aliens 5000 years ago that taught us to use the word "consciousness" when we're at philosophy conferences / on particular drugs, and this got culturally transmitted until today, it is not an explanation that would satisfy me. As I already said, what I have in mind is explaining whatever locally happens when you go "wow, I'm feeling like something right now" — I'm fairly confident before considering specifics that the local causal chain that causes me to say this actually involves whatever I ought to call me consciousness. In particular, the explanation should be on a particular level of abstraction — not why it is economically advantageous for one to talk of consciousness, and also not (for now, anyway) on the level of particular neurons firing. Instead, the explanation I'm about to give will be in terms of computational processes in the brain on an abstract, algorithmic, level.
+
+So, information processing is often happening in my brain. For instance, my brain is currently processing the room around me into objects. Now, something weird that can also happen 
+
+
+
+
+I think the obvious counterargument here is this: sure, I've explained our talking of consciousness, but that doesn't mean I've explained the thing we're talking about. 
+
+
+Now, perhaps one can make some limited sense of the intuition that conscious states are more prone to being being good or bad (though I'm not sure about this): perhaps we only consider a computational process bad if it can look at itself and consider itself bad. For instance, when you are experiencing pain, you often think to yourself "shit, I don't want this experience to continue", and this kind of incoherence of a mental process is one thing that makes it bad — it seems plausible to me that this is universal underlying structure of the of suffering. This sort of agrees with the intuitive reason — insofar as there isn't an entirely confused one here — why one would give why a seemingly possible zombie would not suffer: there would be no inner listener there to feel anything when the zombie is tortured, there'd be nothing there to feel incoherent. 
+
+## mess
+
+I think I've become sort of convinced that I've sort of understood the mental processes that lead us to say we are conscious/aware/have experiences/that there is an ineffable redness to red, and that basically yes it has primarily to do with meta-processing, meta-meta-processing, and/involving self-modeling. And since I'm also more or less convinced that our talking about consciousness is caused by being conscious, or anyway that there is nothing else to explain in this vicinity other than the reason people start to talk about being conscious, I guess I'm now sort of convinced that I've understood consciousness. Though I still sometimes go back to "ok, but why do I feel 
+
+
+I think I've become sort of convinced that I've sort of understood the general shape of the mental processes that lead us to say we are conscious/aware/have experiences/that there is an ineffable redness to red, and that basically yes it has primarily to do with meta-processing, meta-meta-processing, and/involving self-modeling, though I can't give a very detailed description yet. And since I'm also more or less convinced that our talking about consciousness is caused by being conscious, or anyway that there is nothing else to explain in this vicinity other than the reason people start to talk about being conscious, I guess I'm now sort of convinced that I've understood consciousness.
+
+
+If you like a view which thinks there is something outside the physical part of our universe that just happens to be perfectly correlated with the physical one where everything else we know about happens to live, then 
+
+I think I've become sort of convinced that I've sort of understood the general shape of the mental processes that lead us to say we are conscious/aware/have experiences/that there is an ineffable redness to red, and that basically yes it has primarily to do with meta-processing, meta-meta-processing, and/involving self-modeling, though I can't give a very detailed description yet. And since I'm also more or less convinced that our talking about consciousness is caused by being conscious, or anyway that there is nothing else to explain in this vicinity other than the reason people start to talk about being conscious, I guess I'm now sort of convinced that I've understood consciousness.
+
+But this is not to say that the matter is entirely resolved for me — for instance, on the very related question of which kinds of computational processes I would like to see in the universe, I don't like I have made a huge amount of progress: it's not clear to me that I've learned much about how to compare e.g. a human solving a math puzzle to a human enjoying a scenic view, and it is certainly not obvious to me that the mental states of pigs do not matter. I also still often go back to "ok, but why do I FEEL like something".

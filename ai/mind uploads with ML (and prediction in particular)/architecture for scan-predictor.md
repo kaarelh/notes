@@ -1,0 +1,2 @@
+
+we could predict next scan from current scan. but of course want to predict from prior sequence. this should be a solved problem because video predictor models are a thing. it'll just be some sort of CNN transformer thing surely? 

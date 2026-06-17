@@ -1,0 +1,2 @@
+
+it seems plausible that this problem is hard, but it'd be nice to have some concrete result here. like is it NP-hard? could something here be uncomputable? i guess we know some limit question with copies is as hard as solving network coding, which is probably pretty fucked?

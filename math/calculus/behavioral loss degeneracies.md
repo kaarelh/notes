@@ -1,0 +1,28 @@
+
+It seems likely you know this already / this is obvious (I guess maybe it was implicit in a bunch of our discussion), but the following seems helpful to have written down somewhere about degenerate directions of behavioral loss:
+
+Lemma. For MSE behavioral loss on a set of nodes $N$ and a set of inputs $X$, singular directions (i.e., directions which are in the kernel of the Hessian of behavioral loss) are precisely those directions which are orthogonal to the gradient of the function $n_x(w)$ for all pairs $(n,x)\in N \times X$. 
+
+That is, you take all $|N| \times |X|$ pairs $(n,x)$, let $\nabla_w n_x(w)$ denote the gradient of the activation computed at node $n$ on input $x$ wrt $w$, and let's say $U$ is the span of these $|N| \times |X|$ vectors $\nabla_w n_x(w)$. Then the subspace of degenerate directions of behavioral loss is precisely $U^\perp$.
+
+(The proof is just some explicit Hessian calculation which ends at $H = \sum_{n,x} (\nabla_w n_x(w)) (\nabla_w n_x(w))^T$, and then noting that a weight direction $v$ is singular iff $0 = v^T H v = \sum_{n,x} (v \cdot (\nabla_w n_x(w)))^2$ which is equivalent to $v$ being orthogonal to $\nabla_w n_x(w)$ for all $n$ and $x$.)
+
+The more general takeaway I guess (which also follows from the Hessian calculation) is that the Hessian having a small eigenvalue in some direction corresponds to the data set of these gradient vectors having small squared mass in that direction (indeed, the eigenvalue equals that squared mass).
+
+
+Let's consider the case with modules $A$ and $B$. Let the respective two sets of boundary nodes be $N_A,N_B$ (i.e., these are the nodes which show up in our behavioral loss). Let the possible edge from $y\in A$ to $z\in B$ have weight $w_{yz}$ — the case where there is no such edge is just $w_{yz}=0$.  By the argument above, the set of degenerate directions is precisely the orthogonal complement of the span of the following gradient vectors:
+* $\nabla_{w_A}n_{x}(w)$  for each node $n\in N_A$ and input $x\in X$ (we're using $\nabla_{w_A}$ to denote the gradient vector wrt the weights in $A$ only, padded with zeroes for the weights in $B$; it would have been equivalent to say $\nabla_{w}$ here but the former choice is nicer considering the item below);
+* $w_{yz}\frac{\partial n_x(w)}{\partial z}\nabla_{w_A} y_{x}(w)+\nabla_{w_B}n_{x}(w)$  for each node $n\in N_B$ and input $x\in X$.
+
+Here's one weak observation about degeneracy which one can rigorously make from this (only interesting if we are really overparametrized, but I feel like this might be the only case where there are nontrivial degeneracies anyway, so maybe this isn't too silly):
+Lemma. The dimension of the kernel of the Hessian cannot change by more than $|X|$ when we change $w_{yz}$ to some other value $w_{yz}'$ (e.g. from $w_{yz}=0$ to some $w_{yz}'\neq 0$, or vice versa).
+
+Pf. It suffices to show that this dimension cannot decrease by more than $|X|$ (because it not being possible for it to increase by more than $|X|$ then follows by taking the old value to be $w_{yz}'$ and the new value to be $w_{yz}$). To show that this dimension cannot decrease by more than $|X|$, by what we argued earlier, it suffices to show that the dimension of the span of the gradients specified above cannot increase by more than $|X|$. It cannot increase by more than $|X|$ because the gradients for $w_{yz}'$ are contained in the span of the list of gradients for $w_{yz}$ together with the $|X|$ vectors $\nabla_{w_A}y_x(w)$ for different $x\in X$.
+
+(In fact, the degeneracy dimension cannot change by more than the dimension of the span of the vectors $\nabla_{w_A} y_{x}(w)$ for $x\in X$, which, in case the NN is really degenerate, might be much smaller than $|X|$.)
+
+The general question is whether typically, the span of the collection of gradients specified above has lower dimension when $w_{yz}=0$ or when $w_{yz}\neq 0$. If there are surprising degeneracies among the gradients $\nabla_{w_B}n_{x}(w)$ for $n\in N_B$, then I'd guess that adding multiples of $\nabla_{w_A} y_{x}(w)$ tends to break these degeneracies. One can something weaker but more certain here: if there is a linear relation between the $\nabla_{w_B}n_{x}(w)$ for the same $x$ but different $n\in N_B$, i.e., a linear combination that evaluates to $0$, then, absent a matching conspiracy between the coefficients $\frac{\partial n_x(w)}{\partial z}$, the same linear combination of $w_{yz}\frac{\partial n_x(w)}{\partial z}\nabla_{w_A} y_{x}(w)+\nabla_{w_B}n_{x}(w)$ will evaluate to a multiple of $\nabla_{w_A} y_x(w)$, which implies that $\nabla_{w_A} y_x(w)$ is in the span of gradients for $w_{yz}\neq 0$, which implies that every $\nabla_{w_B}n_{x}(w)$ is in the span of gradients; if this holds for every $x$, then the span of gradients for that $w_{yz}\neq 0$ contains the span of gradients for $w_{yz}=0$, which implies that $w_{yz}\neq 0$ is strictly less degenerate. In short, if the $w_{yz}=0$ case is sufficiently degenerate, and there is no conspiracy between certain coefficients, then the $w_{yz}\neq 0$ case must be strictly less degenerate.
+
+However, I don't see why a particular $w_{yz}\neq 0$ case couldn't be surprisingly degenerate instead, in which case I think we'd have a completely symmetric argument why any other $w_{yz}$, including $w_{yz}=0$, would be less degenerate. It could still be that it is in fact easier to make the $w_{yz}=0$ case degenerate, but I don't think we've managed to break the symmetry with the arguments above yet.
+
+(Also, note that we haven't at all considered singular directions which are not fully supported on the weights solely in $A$ or $B$.)

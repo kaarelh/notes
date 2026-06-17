@@ -1,0 +1,4 @@
+
+keep num params const, but change the ratio of width to depth, or maybe some other things, like query vs key dim. apparently, this empirically doesn't affect loss that much (?). a natural question here is whether models with very different ratios are still learning the same thing though, or if they are learning different things.
+
+also, are two different models with different random initializations learning the same thing? i guess we need to make all this quantitative somehow — one possible way to compare is to look at the KL divergence between models with the same ratio vs between models with different ratios. is it 'about the same'?

@@ -1,0 +1,2 @@
+
+1. Ethical development/reflection is sometimes thought of as (involving) convergence to a point in value space. I think it’s better to think of it as being on a very jagged trajectory off to infinity in a highly infinite space. 

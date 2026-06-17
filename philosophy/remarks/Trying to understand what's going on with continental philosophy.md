@@ -1,0 +1,1 @@
+With everything being vague and messy, how does it avoid drift into nonsense? Maybe this has to do with checking all detailed claims against higher-level intuitions, or maybe implicitly building frameworks at multiple levels of abstraction in parallel, and everything having to fit together neatly guards against the generation of complete nonsense on the level of details.

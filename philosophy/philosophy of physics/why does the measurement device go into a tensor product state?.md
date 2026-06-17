@@ -1,0 +1,4 @@
+
+when measuring, why does QM say that we must get a sum of two entangled tensors, as opposed to schrördinger time evolution maybe just giving a single state — the one we actually finally have the particle in when we look?
+
+i think this is because: initially, you have a superposed state tensored with the measurement device state. now we know how this time-evolves because we can expand this as a sum of two things and we know how those time-evolve! namely, you get spin up tensor measurement device, which must go to spin up tensor measurement device says spin up, and analogously for the other state. (these time evolutions are by definition of the measurement device i think!) summing these two known time-evolutions gives an eventual state which is a superposition of two states as canonically claimed, crucially with a large thing in two states. so indeed it looks like in such a case schrödinger time evolution gives a globally superposed state!

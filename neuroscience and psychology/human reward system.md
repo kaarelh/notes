@@ -1,0 +1,4 @@
+
+* do humans endorse value change because of our reward apparatus, or would we want to have it changed? like we'd want evolution's loss changed maybe?
+	* i feel like idk because i don't really have a clear sense of what the human reward apparatus is doing to me? i guess it makes it possible for me to learn. but what is it up to more precisely? what are some examples of it in action? ok so everything upstream of some thing considered good probably gets boosted? is this a pretty primitive operation or does this arise out of something else?
+	* anyway it seems very likely we will want to change a lot about how we think, including the reward apparatus surely. so sorta definitely we'd want to change it. but also surely it's *sometimes* changing our values in a way we wouldn't like, and we'd want to change that. so without understanding much about what it's up to, surely we can be pretty sure we'd want to change some stuff about it!

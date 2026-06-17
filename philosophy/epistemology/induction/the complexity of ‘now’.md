@@ -1,0 +1,3 @@
+
+
+for any theory T, there is a theory T’ which is the same except with an exception clause for ‘the next moment’. if that were constant complexity, would be fucked because always at least const prob on opposite then. so ‘the next measurement’ must be not const bits — maybe need to point at ‘now’ in some external way (as eg time t, or the moment such that suchandsuch, etc). this seems in some tension with a first-person way of looking at prediction à la sam? probably not unresolvable — just would be nice to think about this tension a bit more

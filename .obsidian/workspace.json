@@ -1,0 +1,817 @@
+{
+  "main": {
+    "id": "85cad55ae2b8aac9",
+    "type": "split",
+    "children": [
+      {
+        "id": "06b9348535c32983",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c38ed92b456eea6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "logic/a look at russell's paradox.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "a look at russell's paradox"
+            }
+          },
+          {
+            "id": "d2d186bdd17c2ef3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "games/questions for AI trading game.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "questions for AI trading game"
+            }
+          },
+          {
+            "id": "a0abf1e2c31d67ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "philosophy/philosophy of language/meaning and truth/compositional inference warranting (a view of meaning).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "compositional inference warranting (a view of meaning)"
+            }
+          },
+          {
+            "id": "cc31edff25330aa0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "philosophy/philosophy of technology/a toy setting for studying some technological phenomena.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "a toy setting for studying some technological phenomena"
+            }
+          },
+          {
+            "id": "a5cd8d2413aff0ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ai/interp general/understanding a NN in terms of what it is doing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "understanding a NN in terms of what it is doing"
+            }
+          },
+          {
+            "id": "6b799e93f56e3807",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "philosophy/philosophy of fooming/some ideas for safe self-improvement.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "some ideas for safe self-improvement"
+            }
+          },
+          {
+            "id": "07c4845a637a6c1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "philosophy/philosophy of thinking/the anima mundi analogy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "the anima mundi analogy"
+            }
+          },
+          {
+            "id": "d13809ed490315ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ai/alignment general/suggestions for conditional commitments to update on p(doom).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "suggestions for conditional commitments to update on p(doom)"
+            }
+          },
+          {
+            "id": "9dcbcfb7671a2044",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ai/interp general/what is space in a neural net?.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "what is space in a neural net?"
+            }
+          },
+          {
+            "id": "271f357ef27ef308",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "philosophy/valuing/the complexity of human values is the complexity of humanity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "the complexity of human values is the complexity of humanity"
+            }
+          },
+          {
+            "id": "4b5117fb029e2445",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "philosophy/ethics/a metaphysical argument against ethics being about making beings.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "a metaphysical argument against ethics being about making beings"
+            }
+          },
+          {
+            "id": "d4c35a85665017c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ai/alignment general/outside view arguments for AI doom.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "outside view arguments for AI doom"
+            }
+          },
+          {
+            "id": "78944fa16c48fcd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ai/alignment general/A greater humanist manifesto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A greater humanist manifesto"
+            }
+          },
+          {
+            "id": "6a9f56be367a21c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "philosophy/metaethics/on good reflection processes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "on good reflection processes"
+            }
+          },
+          {
+            "id": "726073369aae2b27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ai/language modeling/merge machines.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "merge machines"
+            }
+          },
+          {
+            "id": "2e4d3161fb2b51a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ai/alignment training tricks/a list of alignment training tricks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "a list of alignment training tricks"
+            }
+          },
+          {
+            "id": "c4f00ef771aa792e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ai/verification and generation/message to jake about issues with verification plans.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "message to jake about issues with verification plans"
+            }
+          },
+          {
+            "id": "1a695bb7cc6edb9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ai/alignment general/some thoughts relevant to agi timelines.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "some thoughts relevant to agi timelines"
+            }
+          },
+          {
+            "id": "fdff98089e453673",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ai/learning/solomonoff induction/solomonoff induction sequence meta.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "solomonoff induction sequence meta"
+            }
+          },
+          {
+            "id": "f4281efcc00d15fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "philosophy/philosophy of thinking/beating solomonoff induction at grokking a notion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "beating solomonoff induction at grokking a notion"
+            }
+          },
+          {
+            "id": "8624f4b149922c5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "writing meta/post tier system.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "post tier system"
+            }
+          },
+          {
+            "id": "4b22a2b37238f189",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "philosophy/philosophy of language/meaning and truth/some considerations with an eye toward specifying a picture of meaning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "some considerations with an eye toward specifying a picture of meaning"
+            }
+          },
+          {
+            "id": "1cf422e1d121ebb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "philosophy/ethics/a problem if valuing is very open-ended.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "a problem if valuing is very open-ended"
+            }
+          },
+          {
+            "id": "a8d7e27d8843602b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cs/when can one prove that a program halts?.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "when can one prove that a program halts?"
+            }
+          },
+          {
+            "id": "de9018f4a9fb1bce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ai/alignment general/a statement of the alignment problem.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "a statement of the alignment problem"
+            }
+          },
+          {
+            "id": "0645af68efe2f120",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "weltgeistbehandlung/how would we make people lie less?.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "how would we make people lie less?"
+            }
+          },
+          {
+            "id": "e712cd0b2f1c7f21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ai/interp general/understanding a NN in terms of what it is doing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "understanding a NN in terms of what it is doing"
+            }
+          },
+          {
+            "id": "adfe3ed9cf7a766f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "games/some ways in which games are routinely underspecified.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "some ways in which games are routinely underspecified"
+            }
+          },
+          {
+            "id": "73d7f7ec049d5b49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "philosophy/valuing/protection via instrumentalization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "protection via instrumentalization"
+            }
+          },
+          {
+            "id": "7c7729368ba9e0b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "philosophy/valuing/some remarks on the not(-yet)-separated-out-ness of terminal vs instrumental things.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "some remarks on the not(-yet)-separated-out-ness of terminal vs instrumental things"
+            }
+          },
+          {
+            "id": "c922458b4ffb1e73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "philosophy/ethics/values are complicated; also values are simple.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "values are complicated; also values are simple"
+            }
+          },
+          {
+            "id": "25b207cba357cc31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "philosophy/philosophy of thinking/what is the problem solved when one grasps the meaning of a sentence.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "what is the problem solved when one grasps the meaning of a sentence"
+            }
+          },
+          {
+            "id": "38790422fd3d7b9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "weltgeistbehandlung/instrumentalizing the good.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "instrumentalizing the good"
+            }
+          },
+          {
+            "id": "f29e0c5cffbe0cd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "philosophy/valuing/protection via instrumentalization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "protection via instrumentalization"
+            }
+          },
+          {
+            "id": "b8c6d72e806144db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "introspection/introspect-solving math olympiad problems/some thoughts on solving putnam 2025 A3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "some thoughts on solving putnam 2025 A3"
+            }
+          },
+          {
+            "id": "aa83b2bc78d4a90b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "philosophy/ethics/conservatism.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conservatism"
+            }
+          },
+          {
+            "id": "54ff305074db3d78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "writing meta/preamble for public posting of note folder.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "preamble for public posting of note folder"
+            }
+          },
+          {
+            "id": "53c364422a2f7fa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "philosophy/ethics/examples of structure-making.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "examples of structure-making"
+            }
+          },
+          {
+            "id": "4710a2f31995cb2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linguistics, language, writing?/etymology/odd etymological relations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "odd etymological relations"
+            }
+          },
+          {
+            "id": "2cf8802b97b4363b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "self-optimization?/backpack options.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "backpack options"
+            }
+          },
+          {
+            "id": "95d2cd2b5aaf527d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "weltgeistbehandlung/what is weltgeistbehandlung?.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "what is weltgeistbehandlung?"
+            }
+          },
+          {
+            "id": "5c06540d65ab5931",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scratchpad.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "scratchpad"
+            }
+          },
+          {
+            "id": "80670f545186a8db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ai/few vs many features/meeting with adam jermyn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "meeting with adam jermyn"
+            }
+          }
+        ],
+        "currentTab": 42
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f8cc14976f9cd13",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc2212b85bc7d915",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec4d679d9292462e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "77321f8545602402",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "68055a136c544ae5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "09df5bf9eda5580a",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 374.5041847229004
+  },
+  "right": {
+    "id": "5148cc57bf07d15a",
+    "type": "split",
+    "children": [
+      {
+        "id": "34464f97355643db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0222ce6ba723581",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ai/ai policy/istarion statement.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for istarion statement"
+            }
+          },
+          {
+            "id": "796558b99c1cbcb4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "scratchpad.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from scratchpad"
+            }
+          },
+          {
+            "id": "2900dff869e01447",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1bb6fa888c485ffe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "scratchpad.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of scratchpad"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "80670f545186a8db",
+  "lastOpenFiles": [
+    "ai/DLK/table code copies.md",
+    "ai/DLK/Searching for a model's concepts by their shape.md",
+    "ai/DLK/RL experiments.md",
+    "ai/DLK/main DLK framework open questions.md",
+    "ai/DLK/prompt normalization bug.md",
+    "ai/getting research from a misaligned AI/messages to carlo and nicholas on paying an AI.md",
+    "political science/are policies less in touch with the frontier of intellectual progress now than they used to be?.md",
+    "political science/a circuit stack for societal functioning.md",
+    "ai/ai policy/istarion statement.md",
+    "ai/agendas/safe things to scale.md",
+    "ai/agendas/study maps.md",
+    "advice on thinking and research/what would i want in communication?.md",
+    "advice on thinking and research/value of mentors.md",
+    "advice on thinking and research/some ways to be confused.md",
+    "advice on thinking and research/sequence.md",
+    "advice on thinking and research/research technique ideas.md",
+    "advice on thinking and research/research setup.md",
+    "advice on thinking and research/pursue threads to completion.md",
+    "advice on thinking and research/pursue resemblances.md",
+    "advice on thinking and research/plausibly useful mental loops.md",
+    "advice on thinking and research/phrases.md",
+    "advice on thinking and research/On keeping oneself in the picture as a scientist.md",
+    "advice on thinking and research/in defense of independent research.md",
+    "advice on thinking and research/how to speak when an inside-view is outside-view wrong.md",
+    "advice on thinking and research/As an alignment researcher, why do math if it'll be solved before AGI?.md",
+    "readings.md",
+    "images/Pasted image 20260203111129.png",
+    "weltgeistbehandlung",
+    "physics/optics",
+    "philosophy/readings/(Jean Nicod Lectures) Jerry A. Fodor - The Elm and the Expert_ Mentalese and Its Semantics-The MIT Press (1995).pdf",
+    "ai/alignment training tricks",
+    "linguistics, language, writing?/syntax",
+    "ai/research from hypercomputer",
+    "jokes/ai jokes",
+    "philosophy/philosophy of language/sentences",
+    "political science/Untitled",
+    "political science",
+    "images/Pasted image 20251120114745.png",
+    "images/Pasted image 20251120115111.png",
+    "images/Pasted image 20251010141458.png",
+    "images/Pasted image 20231015031247.png",
+    "images/Pasted image 20251010235711.png",
+    "images/Pasted image 20251010235654.png",
+    "images/Pasted image 20250919094117.png",
+    "images/Pasted image 20250919084848.png",
+    "images/Pasted image 20250916153228.png",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}

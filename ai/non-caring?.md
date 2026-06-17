@@ -1,0 +1,5 @@
+
+Is it possible to solve scientific problems sort of like sudoku puzzles in some abstract text domain, having cares that have to do with this abstract domain, which you do not strongly relate to anything in the 'real world', and hence be safe?
+* maybe it's good to think of this in terms of the density of relations between 'your native world' and 'the real world'
+* examples: imagine a portal opening up to another universe — how do you start to care about stuff in this other universe? (this seems like on some spectrum with: utility rebinding when adopting a new ontology, making sense of your cares after moving to a new country)
+* or i guess the portal is too alien. maybe ender's game is a better analogy, though sort of weirdly inverted in that the video game is the world in which your cares live initially, not something you consider fake. and then you find a 'reality isomorphic to your video game'

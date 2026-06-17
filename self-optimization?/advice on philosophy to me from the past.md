@@ -1,0 +1,7 @@
+
+this is advice on doing philosophy i'd give to me 7 years ago, so when i was 18 and starting college. (i might want to give rather different advice to a different person)
+* somewhat more than you think, it's worthwhile to try to make questions canonically considered interesting which you consider nonsensical make sense
+	* you are broadly right in thinking that basically all people you meet profoundly suck at asking these questions sensibly, but it is worthwhile to spend some more time trying to ask versions of these questions which do not profoundly suck yourself
+	* feel free to continue calling the questions people are asking nonsense, but then also seek to understand which concerns might make one ask those questions (ie, which concerns one could (maybe confusedly) take this question to be addressing), see if some of these concerns make sense, and try to do a better job addressing those. you can often identify these by thinking about how they'd act/believe/think differently depending on the answer to that question
+* think more about how thinking works. many very good philosophical questions remain to be asked here.  
+	* many philosophers who don't seem to be interesting/sensible (eg hegel and heidegger) can be made interesting/sensible if you think of them as talking about thinking (even sometimes ignoring the surface structure of their utterances)

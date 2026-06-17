@@ -1,0 +1,4 @@
+
+variables $X_1,\ldots,X_k$. let $X_I$ for $I\subseteq[k]$ denote the tuple of variables with those indices
+
+we have the shannon inequality $I(X_A;X_B|X_C)\geq 0$. note that the general case is implied by this with pairwise disjoint sets, so maybe just interested in the case with $A,B,C$ pairwise disjoint. can rewrite this as $H(X_A|X_C)\geq H(X_A|X_B,X_C)$. adding $H(X_C)+H(X_B|X_C)$ to both sides gives that this is equivalent to $H((X_A,X_C))+H(X_B|X_C)\geq H((X_A,X_B,X_C))$, which can be further rewritten as $H(X_{A\cup C})+H(X_{B\cup C})\geq H(X_{A\cup B\cup C})+H(X_C)$. with $A\cup C=S$ and $B\cup C=T$, this is $H(X_S)+H(X_T)\geq H(X_{S\cup T})+H(X_{S\cap T})$. so the shannon inequalities are implied by submodularity. but also and $S,T$ can be made this way, just setting $C=S\cap T$ and $A=S\setminus C$ and $B=T\setminus C$, so the shannon inequalities imply submodularity, also

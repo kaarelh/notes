@@ -1,0 +1,4 @@
+
+https://lichess.org/lag#:~:text=Lichess%20compensates%20network%20lag.,feel%20reasonable%20for%20both%20players.
+
+lichess compensates lag. can maybe use this to get more time than you're supposed to have as follows. can maybe take a device+network with a high ping, but look at game on an incognito device with a fast connection (lichess lets others observe games) to start thinking before your move hits the laggy device and your time starts ticking. u can then even premove the desired move on the laggy device maybe (imagine bullet). of course maybe this isn't that useful. or maybe they have spectator delay so this doesn't work, or maybe sth else goes wrong

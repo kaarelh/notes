@@ -1,0 +1,6 @@
+
+from Jan Brauner: process-based training is sort of just like CCS adding unsupervised constraints which we do know to cases where we do not know the answers — like the hope is that the constraints together uniquely (at least wrt the measure induced by the model's useful representations themselves, in the case of CCS; so really with high probability) specify the thing we were after.
+
+my take: It seems plausible that we can constrain processes without knowing their desired output to just get the right output behavior, especially if one has a good measure on processes to begin with. Can we think carefully in this framing of learning good representations for describing processes in general (and for carrying them out), and then constraining somehow meaningfully in terms of these representations the process, hopefully getting out the desired process, even when one could not specify it beforehand.
+
+from Jan Brauner: if have experimental method, can look into where it works, probably it does better on some stuff, can write that up and it's probably useful (though I guess a little sus as well)

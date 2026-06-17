@@ -1,0 +1,8 @@
+
+many structures are not gradient-descent findable or findable by any local thing directly, eg not findable by evolution either, because they don't have paths in structure-space into them, though they do have weird other paths to them that involve thinking about stuff. eg an eye can be gradient-descented to but a camera cannot be gradient-descented to (is it gradient-descented or gradient-descended? a bit like whether screenshotted vs screenshot is the past tense of screenshot). eg the XOR cannot be found by gradient descent but can be found by a human by thinking about stuff. the analogy goes further than this: we can find the XOR vector by looking for sth satisfying certain constraints (let's say after we have the idea to check linear maps, which is a natural idea), and it seems plausible that we often find concepts by looking for things which would satisfy certain constraints (eg in math, fit into certain theorems).
+
+now there's a question 
+
+i think it’s plausible that even if you’re learning something from someone else by demonstrations, the implementation of that thing you get is still something that requires thinking to find. eg you think about analogies. you ask questions. you ask for particular demonstrations. you think through weird cases
+
+maybe the broader idea is that you need a system such that every level of that system is subject to essentially conscious improvement, and this is not what you easily get with current ML systems?

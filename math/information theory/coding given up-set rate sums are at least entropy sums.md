@@ -1,0 +1,15 @@
+
+If for every up-set, the rates have at least as much mass as the entropies, then one can in fact code. In fact, moving mass up just works, by essentially the flow-cut argument we discussed yesterday. I'll explain this in my version of the setup below (but it's plausible that there's also an alternative theorem in the literature which eliminates the need for auxiliary vertices).
+
+(To be clear: (1) there's no requirement that the sum of the rates is the sum of the entropies here, and (2) we're including constraints for all up-sets, not just those coming from subsets.)
+
+Pf that one can get from the entropies to the rates by just having mass flow up.
+* Start by taking the rates minus the entropies, putting these charges on the vertices of the poset digraph. Each directed edge has capacity $\infty$. Our assumption is that each up-set has non-negative mass.
+* Add a special source vertex. From the source vertex, we put a directed edge toward each negatively charged vertex, with capacity equal to the magnitude of its charge.
+* Add a special sink vertex. Into the sink vertex, we put a directed edge from each positively charged vertex, with capacity equal to the magnitude of its charge.
+* It suffices to show that there is a flow of size (at least) sum-of-the-magnitudes-of-negative-charges, because we can interpret such a flow as a way to move all excess information into higher channels such that we code at (at most) the given rates. (Note in particular that a flow of at least this size must in fact be of precisely this size and must saturate all constraints out of the sink.)
+* The size of the max flow is that of the min cut. So it remains to show that every cut has size at least sum-of-the-magnitudes-of-negative-charges.
+* If even one $\infty$ edge is in the cut, then the cut has size $\infty$. It remains to consider those cuts with no $\infty$ edges — that is, the cuts where the **source** set is an up-set.
+* For a cut where the source set is an up-set $S$, the size of the cut is the sum of the magnitudes of negative charges in the complement of $S$ plus the sum of the magnitudes of positive charges in $S$. The latter sum is at least the sum of the magnitudes of negative charges in $S$ by our up-set non-negativity assumption. So the size of this cut is at least the sum of the magnitude of negative charges in the complement of $S$ plus the sum of the magnitudes of negative charges in $S$, i.e., the sum of the magnitudes of all negative charges. This is what remained to show.
+
+more context: this statement is probably just false if we replace all up-set constraints with just those obtained from subsets, ie that for each set, the sum of all rates of sets intersecting that set is at least the sum of those entropies. one can bump by ones and negative ones alternating by layer, with ones at the singletons, increasing all subset-upset-sums, but we have an example with $n=3$ where the middle latents are coinflips so the entropies are 000 111 0 where we're pretty sure one can't actually code at 111 000 1 (we have an argument but i haven't checked it very carefully)

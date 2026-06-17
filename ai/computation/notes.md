@@ -1,0 +1,2 @@
+
+maybe instead of trying to fit sparse comp, more natural to just fit any circuit with low fan-in? thats what the naive info theory upper bnd cares abt? what makes stuff break when inputs are not sparse? is it just about some linearity stuff? ie things needing to be linearly represented creates this? 

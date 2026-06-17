@@ -1,0 +1,2 @@
+
+in particular i'm interested in the following: why is it appropriate to think of a gas as being made of billiard ball particles in the context of deriving the ideal gas law but not in the context of a disc moving through gas? (like, air resistance is some crazy navier-stokesy thing)

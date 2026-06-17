@@ -1,0 +1,13 @@
+
+btw, i probably wouldn't label this class of ideas "making deals" if we also mean to include variants where the AI doesn't really have a meaningful choice of whether to accept some conditions or not. eg, there's the variant where we just tell the AI we will do our best to pay it iff it is a good researcher — it's not like there is some explicit "reject" option for the AI here (it'll presumably be terminated if it says it isn't going to be a good researcher). maybe "paying the AI" or "monitoring/verifying and conditionally paying the AI" are better terms imo
+
+btw, my overall position on this is: if one tries to pay an AI for doing [the equivalent of 100 years of human research] in 1 year (for example, asking it to make mind uploads that can be run at 100x speed, or asking it to make nanobots which melt gpu-s), assuming the human world hasn't ended yet by the point this becomes feasible capabilities-wise, i don't know of a "hyperparam setting" such that i'd give <90% to [[the AI takes over] OR [the AI is terminated without creating the desired artifact]]
+
+i spent some hours this week thinking about what "hyperparam settings" are most promising
+
+some hyperparams: * what (pivotal) tech we are trying to get from the AI? * in what format are we trying to get the tech: eg for mind uploads, are we trying to get uploads of some particular humans, or a device which can take a human and produce an upload of that human, or like a survey paper which humans could read and use to fairly quickly create uploads or an upload device? * how boxed is the AI? are we letting it connect to arbitrary actuators? maybe we want to restrict it to only actuators in a particular physical lab, except for being able to order resources from outside or sth? maybe we want to only let it do stuff in some virtual world? * in particular: how much are we letting the AI talk to humans? (eg: could it effectively communicate a counteroffer to us, such that we could respond to that counteroffer? are we committing to not doing that?) * how are we monitoring it? * how are we "verifying" its proposed artifact? * in particular, are we asking it to give some sort of argument in favor of its artifact doing what we wanted and "only what we wanted", and then "checking" that argument? what kind of argument are we asking for here? * after noting how much concerning stuff are we terminating it?
+
+an annoying thing for these hopes: "hacking humans" is probably easier than making mind uploads or making nanobots, imo
+
+i recommend playing against queenless leela for grokking a vibe here: https://lichess.org/@/LeelaQueenOdds
+

@@ -1,0 +1,5 @@
+The method used for BERT in that supervised syntax probe paper is weird anyway, because why would the different token positions naturally be "the same vector space" with just different entries, instead of potentially different vector spaces.
+
+Anyway, that does not make sense in autoregressive models like GPT-N, because an intermediate position does not have enough information to reconstruct the syntax tree (because of unidirectional attention). Maybe there is still a representation of the syntax tree in the reps at the end of a sequence though? Could we find k linear maps from the last position that give the syntactic representations of words $1,2,\ldots,k$. This would require looking at the position just after a sentence, I guess. I'm not sure if the model would need to represent the syntax there though. Maybe it makes more sense to look at the $k$'th position, and find $k-1$ or $k$ maps from there?
+
+read this: https://aclanthology.org/2021.findings-acl.76.pdf

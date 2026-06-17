@@ -1,0 +1,7 @@
+
+> Claim. Any generic central hyperplane arrangement can be obtained by restricting coordinate hyperplanes to a subspace.
+
+
+Suppose you have a hyperplane $H$ with normal vector $u$ and you restrict to the subspace $V$, getting a new hyperplane $H'=H\cap V$ in $V$. What's the normal vector of this new hyperplane? Thinking about two planes in 3D, it looks like the answer should just be the projection of $u$ into $V$. Note that anything in $H\cap V$ is orthogonal to $u$ still. Since anything here is also orthogonal to the component of $u$ which is orthogonal to $V$, anything here must also be orthogonal to the component of $u$ in $V$, ie to the projection of $u$ into $V$. So the new normal vector is just the projection of the old normal vector.
+
+Now the question becomes: can any generic tuple of vectors $v_1,\ldots,v_n\in \mathbb{R}^k$ be obtained by projecting $n$ orthogonal vectors into $\mathbb{R}^k$? Yes, this is easy when we let the ambient dimension $m$ be as large as we want: just be greedy: choose a vector projecting to $v_1$, then another orthogonal to it projecting to $v_2$, then another orthogonal to both projecting to $v_3$, and so on — when choosing $v_i$, we have constraints on $k$ coordinates from the projection requirement and $i-1$ orthogonality constraints, but generically there will be an $m-k-(i-1)$-dimensional subspace to choose from left (note we don't care about having unit norms), so this works out for $m$ large enough. And then after one finishes, one can always restrict back to the span, which is just an ambient $\mathbb{R}^n$.

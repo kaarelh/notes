@@ -1,0 +1,4 @@
+
+maybe the login implementation sometimes has a checker that the password is right with a string equality check that looks at the string from left to right (say) and rejects as soon as it finds a mismatch, so getting the first letter right might cause the request to take ever-so-slightly-longer? then can do a bunch of requests with random characters (independently randomize the character for each request, see if some character takes statistically significantly longer to reject. then repeat with that character and all the options for the next one, and so on.
+
+one issue is that this still requires sorta lots of requests to the webpage (though it's not at all astronomical)?

@@ -1,0 +1,4 @@
+
+how many params do you need to specify a rank k map from R^n to R^m (eg: QK part of an attention head)?
+
+SVD initially seems to say like nd+dm, because this is how many params the singular vecs have, but this is overcounting actually. the vecs after the first ones are not free — they are required to be othogonal to the previous ones. the correct calculation ends up being like nd+dm-d^2 I think, which matches what u get by thinking of it as a product of an n x d and d x m matrix and noting one can stick an invertible d x d matrix in the middle (i guess this just gives the same upper bound on the param count naively. one needs some argument on that side to get that it is also a lower bound — that there aren't other equivalences)

@@ -1,0 +1,9 @@
+
+fundamental question: structures at how many scales, of how many different kinds, should we expect to see in our neural nets (like how (going along roughly the physical smallness axis and tracking structure seen at that size scale) humanity is made of quarks and electrons, protons and neutrons and electrons, atoms, molecules, amino acids, proteins, cells, tissues, organs, humans, families, communities, cultures/nations, and then there's the whole shebang (this isn't really right at all because there's also eg tech structure and structure inside culture and language and whatever)). like in particular maybe one could think seriously about the learning situation and conclude that the answer is basically not as many? or maybe not. basically, note that evolution really importantly wasn't like a genetic algorithm at all. with the emergence of a new kind of higher structure, you had to start thinking of evolution as a kinda different thing. eg merge into cell with mitochondria, eg colony becomes unit with multicellularity, eg language and culture, and probably more. maybe something about hox genes and tissues/organs even? i guess that's close to a meta invention. like it seems compelling that in this hierarchy of structures, new structure-kinds are often associated with new levels of selection
+
+
+# side points
+
+* of course GPT5 already isn't made by some single first learning algorithm. a bunch of ideas involved. multiple kinds of things going on
+* maybe it's worth pursuing an accumulation and morphing of learning ideas <-> accumulation and morphing of evolution analogy
+* is there a good way to think about big evolutions with some level of intelligent design involved in making stuff

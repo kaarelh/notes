@@ -1,0 +1,4 @@
+
+* if all possible worlds already exist, which seems plausible, it’s hard to make sense of making more of a certain kind of thing. one could speak of making more of something in one’s (causal?) surrounding but it’s hard from a consequentialist pov to see why it would matter whether something is in your surrounding or not. i guess the view i’m entertaining now does place some emphasis on precisely this: that there be a world you touch which is a certain way
+
+* issues having to do with all value being lost with 100% probability because of there being a wild multiplicity of basically orthogonal legitimate continuations

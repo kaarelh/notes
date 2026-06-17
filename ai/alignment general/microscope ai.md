@@ -1,0 +1,4 @@
+
+so we have a civilization doing science on an island, that we've tried to sorta airgap. the hope is to look at them, try to understand what they've figured out, and get tech out of that. what happens?
+* one issue: it will be really hard to understand what's going on. you'd want to run them at 100x civilizational development speed, but note that you can only be understanding what they're up to at your own speed!
+	* this causes issues with getting science out of them, and also with making sure they aren't fucking you (ie breaking out). you'd want to stay on top of them developing new tech to fuck you with! can you carry out this surveillance while being slower? if you are doing it, they'll be developing ways to evade your surveillance!

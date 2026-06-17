@@ -1,0 +1,2 @@
+
+sometimes projects/pursuits seem cool, and i do them. i think this has a lot to do with posing new challenges, and with me learning from them, with me not already knowing how to do the activities involved, but having to figure stuff out

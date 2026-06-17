@@ -1,0 +1,13 @@
+imagine the following:
+* you have a physical icosahedron in front of you
+	* you talk about it, saying things that are not particular to it: saying that it has 20 faces, that the elements of its rotational symmetry group are given by taking a privileged face to a freely chosen other face (for which there are 20 choices) with a freely chosen orientation (for which there are 3 choices), concluding that its rotational symmetry group must have $60$ elements, etc
+* now the icosahedron explodes. there are now no icosahedra left in our universe
+* you say "whatever" and continue talking about icosahedra: saying an icosahedron has 12 vertices, arguing that its rotational symmetry group turns out to be isomorphic to $A_5$ (the group of even permutations of a $5$-element set), etc
+
+i think there's a kind of philosopher that is led [by wanting things to be concrete] to saying that the person was talking about something before the icosahedron exploded ("like, there was an icosahedron in front of the guy! THERE WAS A THING MADE OF ATOMS!!! the guy was talking about that real icosahedron!"), but merely playing some string game and not talking about anything once the icosahedron was removed and the guy was doing math ("haha obviously there isn't some magical realm where there are mathematical objects a mathematician would talk about. let's be concrete. there is just a game you play with strings"). imo contemplating the above example makes it clear that this is silly; in fact, i think it is worse than either of the following options:
+* saying that the guy was talking about something in both cases (i think this is the best option)
+* saying that the guy was merely playing some string game in both cases (i think there's something to this: i think the word "merely" makes this sus, but certainly the guy was playing some game, and thinking of it that way can be fruitful)
+
+(i think that even [saying that the guy is more clearly talking about something after the icosahedron is removed than before it is removed] is plausibly better; one could justify this by saying that it is easier to understand aboutness in the math case (with a model-theoretic picture, i mean) than in the case of a real icosahedron (where stuff could get more messy). like, imo it is fruitful to understand real-life aboutness via analogy to aboutness in math)
+
+of course, the mathematical icosahedron isn't an object in our universe, whereas the physical icosahedron is. in that sense, you could reasonably say one is a real thing and the other is not. the point im making here is that the talking-about-something-ness of the two situations is clearly the same, anyway

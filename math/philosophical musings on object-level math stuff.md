@@ -1,0 +1,2 @@
+(not sure if the title is pointing at a thing well atm)
+* combinatorics is the philosophy of math: it’s the everything else category; when a structure emerges, it branches off (probability, information theory, TCS, algorithms, data structures) (yes there are issues with this analogy)

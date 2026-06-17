@@ -1,0 +1,4 @@
+
+pretty nice presentation from first principles: https://arxiv.org/pdf/1205.2326
+
+one can fairly easily get from the definition of angular momentum and torque and F=ma that for a single particle, torque is the second derivative of angular momentum (done in the paper above i think). then for a system of particles, you can probably get that angular momentum is preserved under interactions just from the fact that change in momentum is equal and applied along the direction connecting the two particles — in particular, if the first particle gets $+p$, then the second particle gets $-p$ along the direction $r_1-r_2$, so the change to total angular momentum is $+p\times r_1-p\times r_2=p\times (r_1-r_2)=0$ since the last two multiplicandvectors are in the same direction.

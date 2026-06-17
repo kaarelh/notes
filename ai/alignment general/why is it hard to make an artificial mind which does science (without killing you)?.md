@@ -1,0 +1,4 @@
+
+the fundamental tension:
+* on the one hand, the mind will need to figure out something you haven't already figured out (and couldn't easily figure out). the mind needs to be uncontained, not doing something familiar.
+* on the other hand, you need to have sufficiently understood the mind to know it is safe (this doesn't look like an eval. an eval doesn't do anything in technical alignment, because it tells you almost nothing about what to change if something appears problematic. this looks much more like designing a mind in accordance with a conception.) the mind needs to be contained, needs to be doing something familiar

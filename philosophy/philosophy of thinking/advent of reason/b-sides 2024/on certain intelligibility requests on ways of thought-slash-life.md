@@ -1,0 +1,3 @@
+
+probability, truth, meaning, religious stuff,
+1. I found it sorta silly that christian theologians had arguments for the existence (?) of these very abstract "gods", like a first cause or a thing all of whose qualities are positive, and somehow took these to be justifications of like the entire detailed christian edifice/way-of-life, which seemed to obviously depend on a bunch more than what'd be established by these arguments. But note there is also a massive gap between justifications of probability and probability practices!

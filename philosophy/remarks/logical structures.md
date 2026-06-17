@@ -1,0 +1,2 @@
+
+perhaps: we can talk about math, and about various particular mathematical structures. we can talk about the rules of chess — a logical object. we can talk about morality. maybe, then, christians and art ppl have also “discursively constructed” respective logical objects one can also talk about

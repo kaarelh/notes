@@ -1,0 +1,4 @@
+
+thesis: gettierology bad; instead, ask concrete questions, preferably questions about how to act, how to reason, etc., and then seek answers to these questions; this might involve creating new notions to answer these, but we shouldn't be playing purely with notions without something concrete like this in mind
+
+objection: actually, gettierology turns out to yield insights after reinterpretation. there's something to forming concepts with nice properties, we should do some of that! maybe really, when we look for a concept with nice properties, we are already somehow embedding the things we actually care about in the desiderata. also, there often somehow does end up being a precise interesting thing in there, right?

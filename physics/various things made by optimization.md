@@ -1,0 +1,2 @@
+
+stars, oceans, made by optimization or energy minimization or something. like there's some process happening that makes these. maybe also quarks and atoms made this way? need to think this through, could be nonsense

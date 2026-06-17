@@ -1,0 +1,4 @@
+1. humanity cares largely about understanding stuff, about figuring stuff out, about its thinking-activities and thinking-projects, and thinking-goals, about understanding more and more clearly, about working various things out
+2. it seems pretty natural for any mind to care about its understanding like this
+3. like, we want to become smarter, as does any mind. we take a major interest in posing new challenges for ourselves, as does any mind.
+4. wanting to become smarter and posing new challenges are not simple things, but rich things. like, our wanting to become smarter is very distinct from an alien's; the challenges we set for ourselves are very different from those an alien would set for itself

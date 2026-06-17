@@ -1,0 +1,4 @@
+
+wtf is it measuring? one thing it's measuring is bits per bit, i think: if you want to sample from this distribution up to $k$ bits of precision, then what's the best possible expected number of bits to encode the answer? (one should be able to see this easily from writing the integral as a riemann sum)
+
+one issue here is that it really completely forgets about the structure of the domain, of $\mathbb{R}^n$. two close bumps and two far bumps are said to have the same entropy, but there's an intuitive sense in which it is easier to describe a sample from two close bumps. can we make this precise in some better way? one could just ask: with this expected number of bits, what's the best expected $L^2$ loss one can get? we could have some pareto boundary of bits vs dist — maybe that's all there is to it?

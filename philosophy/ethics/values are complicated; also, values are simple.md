@@ -1,0 +1,25 @@
+
+# In one sense, human values are very complicated; in another sense, human values are very simple.
+
+This note makes a simple point, probably already understood by various people, that I haven't seen made compactly.
+1. On the one hand, goodness is very complicated: from scratch^[By "from scratch", let's mean: only given a reasonable "neutral" universal turing machine and a reasonable "neutral" way to interpret its output as a specification of a universe (I'm saying "neutral" to communicate that you cannot cheat by picking a UTM or interpretation that already "knows significantly" about human life); in particular, not inside a universe with humans.], specifying any good future spacetime block would take very many bits. A quick argument for this^[though modulo a potentially contentious ethical claim]: roughly speaking, from any very good future, it should be possible to fairly simply read off the set of currently living humans^[Like, existing people should feature in a privileged way in any very good future. For example: it could look like the resources in this universe being partitioned between the particular humans currently alive, who need to in particular be present and easily identifiable in the universe because they are living these lavish lives, or at least because their thinking is ultimately guiding how a vast quantity of negentropy (or whatever) is getting used. I don't think it has to look precisely like that...]^[The crucial thing is that it should be possible to fairly simply determine most currently existing humans from each very good future.], and it probably takes very many bits to specify all existing humans to any reasonable precision.^[Like, I think it would be a great catastrophe if all humans were killed and replaced with random other humans; it would also be really bad if all humans took a high dose of psilocybin because that's a nontrivial fractional suicide for each person.] In slogan form, I'm saying: the complexity of non-referentially specifying human values is at least on the order of the complexity of specifying all existing humans^[precisely enough that the replacement would not be considered significant suicide], so very big.^[Btw, as a corollary, given the current standard picture of how quantum mechanics works, this implies that the complexity of human values is increasing over time.]
+2. On the other hand, goodness is very simple: it is easy to understand what it is to let someone live their life and fuck off; it's even easy to understand what it is to help someone; aliens would be able to make it understandable to us what sorts of gods they would want us to be for them (at least to some minimal very high baseline, like us giving them some technologies and then doing nothing except destroying any AGIs they make or maybe just leaving them alone).
+
+As a side corollary, note that 2 roughly speaking implies that the complexity of human values is not much more than the complexity of humanity. And then the two claims together imply that the complexity of human values is roughly equal to the complexity of humanity.
+
+To repeat the same thing again quickly and sloppily, with $C(x)$ denoting the Kolmogorov complexity of $x$^[$x$ should be a string, but we will also talk of the complexities of things which are not manifestly strings, taking some specification convention as implicitly given]^[and $C(x|y)$ denoting the Kolmogorov relative complexity of $x$ given $y$ ]^[and it's also true with $C$ being a version that also cares about time complexity]:
+* $C(\text{human values})\approx C(\text{humanity})$ which is huge^[It will depend on what degree of precision should be considered morally acceptable when reconstructing a human, but it's probably more than $10^{15}$ bits? A somewhat more principled underlying object is the curve showing percent utility of some reference future attainable by the best future whose complexity is $\leq n$ bits as a function of $n$.], whereas $C(\text{current human values}|\text{2026-humanity})$ is small^[like, probably $<100$ bits].
+
+And yes, I'm saying something very similar to the classic claim that human values are kolmogorov-complicated but corrigibility is kolmogorov-simple. I think it helps to say this in a couple more ways:
+* It is a huge mess to say what it is to live a good life, but it isn't so hard to say what it is to be nice to an alien.
+* It is a huge mess to say what projects are worth working on, but it isn't so hard to say what it is to give someone space to work on their own projects.
+* It is a huge mess to say what it is for human society to be good, but it's easy to say what it is to be a decent citizen.
+* On the one hand, being good is very complicated. On the other hand, being good is very simple.
+
+
+# references
+
+https://www.lesswrong.com/posts/GNnHHmm8EzePmKzPk/value-is-fragile
+https://www.lesswrong.com/posts/4ARaTpNX62uaL86j6/the-hidden-complexity-of-wishes
+https://intelligenceexplosion.com/2012/value-is-complex-and-fragile/
+https://transhumanity.net/value-is-simple-and-robust

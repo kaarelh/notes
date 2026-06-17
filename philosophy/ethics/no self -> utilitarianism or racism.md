@@ -1,0 +1,2 @@
+
+suppose maybe because u realize that selfhood is confused or otherwise, u realize values can't/shouldn't be indexical. then you can either stay selfish, or become non-selfish. becoming non-selfish is what i'm unseriously calling becoming a utilitarian here. selfishness needs to now be supported somehow; the most natural choice that i can think of is to say you now care more about people like you. this is what i'm unseriously calling 'racism'

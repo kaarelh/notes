@@ -1,0 +1,9 @@
+(msg to matt)
+some hyperparam changes i'd like to make in non-prosaic alignment::
+* less of a culture of people working on agendas / working with their methods, and more of a culture of people working on problems, with whatever tools the problem calls for
+* more of a culture of there being known conceptual open problems. imo we should consider eg "why is it even possible to make a good ASI sovereign" and "how would you get novel scientific papers if you had a hypercomputer" to be central interesting open problems; we should be able to list main solution attempts so far and issues with them
+* probably more lecture series on key questions/topics, tho not sure. (i think this would be valuable and the state is currently really bad here. but i'm still not sure because it takes a bunch of time to prep a lecture series and there are not many people who could give these and these people have other very valuable stuff to do also. but like easily there should effectively be a 100k usd bounty on a good "graduate seminar level" lecture series i think)
+* most ppl should spend more time trying to "solve the whole alignment problem"
+* i want to see more of trying to provide good AI designs, and less of trying to make some given AIs good
+* more wacky stuff, less weight on the constellation imo-monoculture. more of people going off in their own directions while not trying to sync with constellation for a long time. (probably less weight on the yudkowsky worldview as well tho.)
+* putting less weight on some status assignment mechanisms of academia than we are currently (eg alignment forum posts should generally be considered better than ML conference papers; eg it should be well-known that professors who get into alignment have no idea what's going on for at least the first few years and plausibly forever)

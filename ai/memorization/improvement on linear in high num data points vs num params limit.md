@@ -1,0 +1,7 @@
+
+Given the intuitive picture that there is roughly a memorizing circuit for each data point, or at least for every data point except for those with some default label, (which the constructions above might contribute to, at least for a somewhat expansive notion of 'circuit') 
+
+patches on ball in activation space of area $S$, each contains around $Sd$ vecs ($d$ is the total num of data points), the prob each has of working is $2^{-Sd}$, num of such patches is $1/S$; so expect one such patch when $2^{-Sd}/S=1$. Letting $Sd=q$, this is $2^{-q}=q/d$, so $-q=\log q- \log d$, so roughly $q=\log d$. 
+
+
+other view: every direction in (weight?) space will be good for $\sqrt{d}$ data points if you choose the sign to move in it correctly. let's say this is the only way in which you push, and you get to do it $p$ times, ie you have $p$ parameters. then each data point will have received $p$ nudges, and the nudges are positively biased by $\frac{1}{2}+\frac{1}{\sqrt{d}}$. the expected number of nudges in the right direction more than in the wrong direction is then $\frac{p}{\sqrt{d}}$. the variance of this sum of signed nudges is the sum of the variances, which is like $p$. So we have a gaussian with variance p shifted from the origin by $\frac{p}{\sqrt{d}}$. ie a gaussian of variance 1 that is $\sqrt{\frac{p}{d}}$ shifted from the origin. the prob of this being positive minus the prob of it being negative is on the order of $\sqrt{\frac{p}{d}}$. so this gives $\sqrt{pd}$ correctly labeled points

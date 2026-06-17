@@ -1,0 +1,6 @@
+
+talking to ourselves is probably very important for figuring things out! (i guess maybe we don't do enough of it still — we often understand things only when trying to explain something to others, even though we could have understood it talking to ourselves, also (idk not sure here).) how does it get started?
+
+one story: we somehow come to talk to others. of course, we can hear ourselves talking just like we can hear others talking, so we can then literally talk to ourselves out loud. the same circuitry that was letting us understand what others are saying would then be letting us understand what we ourselves are saying, to draw inferences from it, to build on it. then at some point we could just imagine talking instead and keep responding to that, in a loop (this is internal monologue).
+
+idk if we needed talking to other to discover internal monologue. why can't we get some analysis loop going without that? maybe it's very important to have to compress stuff to be able to see things clearly? i guess maybe whatever reasons there are for doing things with a combination of symbols and neuronal stuff attached to symbols (or something) might apply here — perhaps without having to talk to others, you don't get this combination.

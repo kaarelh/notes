@@ -1,0 +1,11 @@
+
+in ZFC, i can say: forall S if 0 is in S and [forall n in N if n in S then n+1 in S] then N subseteq S
+
+(or should say this with S a subset of N maybe instead?)
+
+this should be provable in ZFC right? but then why doesn't ZFC pin down the integers uniquely?
+
+answer guess: perhaps this is not really a quantification over all properties? maybe this is true in all models, but in models where the integers are nonstandard, there are some missing subsets, so this isn't really implying that the model needs to satisfy this? like yea i guess you could be missing some functions (lowenheim skolem), subsets, etc, in a model? the model just needs to assign sets to things that can be said. every definable subset of the integers indeed gets some subset of whatever is assigned to the integers, but there could be a bunch of subsetsoftheintegersinthemodel which can't be talked about by the syntax and won't imply that the sentence needs to be false. weird stuff!
+
+
+related from https://risingentropy.com/nonstandard-integers-rationals-and-reals : "So how do nonstandard naturals appear in the intersection of all inductive sets? The key term to focus on is the “all” in “all inductive sets”. While ZFC guarantees the existence of an inductive set (by the axiom of infinity) and every definable subset of this set (by comprehension/separation), it does not actually guarantee the existence of ALL subsets of this set. (This is actually a general feature of first-order theories, that they are able to guarantee the existence of all definable subsets of a set, but not all subsets.) There are models where the inductive set given to us by the axiom of infinity is enormous (uncountably large), and all of its subsets contain (in addition to the standard naturals) infinitely descending membership chains of sets, each of which contains every standard natural. In these models, omega is not just the standard naturals, but also includes these infinite elements, these numbers with infinitely many predecessors. And the proof from compactness shows us that we can’t eliminate these nonstandard natural numbers."

@@ -1,0 +1,11 @@
+
+
+formula-seeker: i feel like there is the following deep question: what makes for good concepts?
+pragmatist: well, good concepts are useful: they are ones that let you do things and think things. this is a sort of tautological answer: i'm saying good concepts are those concepts that are good! but i think you really have gone off the right track and you need to be reminded of something here. i think what's happened is: you wanted there to be a formula in a case where there is surely very much structure to be discovered, but no formula to be found
+F: hmm so yes i'm happy with saying that ultimately there's some sort of pragmatic criterion on concepts, but i think it usefully factors through some other properties of concepts — eg, maybe it's fine to say to get started that a good conceptual system is one which is good at prediction/understanding/modeling instead of just saying good concepts are good. and then we can further ask what makes a conceptual system good for/at predicting stuff, and make some further progress on characterizing that
+P: i think even that first move is probably seriously mistaken, but i more want to say something like: when you ask why the concept of a graph minor is useful, i think it is reasonable to give an answer that spends a lot of time discussing the theorems in which it shows up, and other properties it connects with, and why those are important, and generally how it has helped us understand some particular things better. and i get a sense from you that basically none of this would have a place in [this story you are trying to construct that is supposed to explain what makes concepts good, applied to the specific case of the notion of a graph minor]? and then i conclude from this that your supposed general formula for good concepts will miss most of what makes concepts good. but i get a vibe from you that you don't think this
+F: look these specifics will be special cases of some nice general thing bro
+P: a general thing like "the concept should help you do stuff"
+F: no, different. more specific
+P: ok so you could do some category theory generalization of a graph minor or something, and see more general usefulness-patters or such concepts?
+F: no not like that

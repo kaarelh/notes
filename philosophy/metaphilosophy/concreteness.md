@@ -1,0 +1,2 @@
+
+what does it mean for something (a claim, a concept) to be concrete? could concepts which seem very concrete to me turn out to be totally non-concrete? much like of an initial cause must have felt really concrete to a medieval philosopher, but it now just seems confused/weird?

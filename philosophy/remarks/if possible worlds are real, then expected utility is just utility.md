@@ -1,0 +1,2 @@
+
+if one is an evidential decision theorist that thinks all possible worlds are real and there’s just some finite number or these possible worlds, then maximizing the expected sum of happinesses is just literally maximizing the sum of happinesses

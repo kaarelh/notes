@@ -1,0 +1,8 @@
+I think I have become slightly more sympathetic to vague nonsense.
+
+tune out in conversation when vague principles stuff discussed
+probably actually good to be guided by some vague principles, e.g. in general life decisions, but also in e.g. mathematics
+it's of course good to keep the vague level constanly in check with the explicit level, to constantly be trying to make it non-vague
+it is very easy to bullshit on the vague level without having any idea about what's going on on the concrete level. it can be helpful to assess this in people by discussing concrete things with them, to filter people one can learn fruitful things from on the vague abstract nonsense level from Deepak Chopra or whatever  (this feels similar to what some people say about abstract art being like children's drawings but with a crucial difference being that Picasso could have been/was really great at all that other stuff as well, or whatever)
+
+I think this is something I really like about MIRI-style philosophy. Comparing the embedded agency sequence with Heidegger's being-in-the-world, it seems like both attempt to address similar issues, but Demski and Garrabrant make the problems really explicit, always – this ties the vaguer statements to concrete things in a way that makes them much more likely to be substantive, as well as providing plenty of concrete test cases for a theory of embedded agency (+ sillier things like being evidence that the authors are smart and have considered the topic carefully )

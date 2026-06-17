@@ -1,0 +1,2 @@
+
+The goal of writing is not to transfer ideas from your head into the head of others in the sense of them coming to believe these ideas, it is instead to transfer the ideas into their head more like clear propositions (though ideas need not be propositional) without 

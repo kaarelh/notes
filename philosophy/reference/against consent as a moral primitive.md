@@ -1,0 +1,9 @@
+
+ofc many arguments against consent as some axiom of ethics. but one interesting one, and one that makes one doubt consent even making sense independently of other underlying cares, is that there's plenty of stuff we are fine with people doing without our consent: improving roads, blowing air in our general direction. all these precisely make sense as not leading to people getting less of what they care about or whatever, and seem weird from the pov of taking not affecting others except when they consent as a basis — if that, why these demarcations? we're fine with the air atoms around us being rearranged in various ways, with gravitons passing through us — this doesn't interact what we care about — and we intuitively needn't consent to any of it, either
+
+
+other arg: consider case where we ask everyone for consent, then erase memory, giving sth to those that consented but without them remembering it. vs just predict precisely who would consent and then just do the thing to them. surely these are morally roughly equivalent. but the consent picture says they are very different. so consent doesn't matter intrinsically. maybe not harming people matters intrinsically? but old arguments against that.
+
+i guess counter to this: the claim is not that them telling you sth matters, it is that them wanting if asked matters. them being happy with the thing matters. and the principle is maybe that you shouldn't cause someone to have x that's unhappy with x. 
+
+also like being broadly happy with what's going on does matter!!! in that sense 'consent' is maybe even all that matters!!! at this point the delta is whether it trades off — and it does! but again, usual reasons at this point

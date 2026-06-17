@@ -1,0 +1,2 @@
+
+well, how do you train the params? you can't just like make gradient descent make the human happy or something, that's just agi to max happiness. looking at outputs and thumbs-upping isn't it either, obviously — again, that's just training a separate agi. how do we embed the params in usual cognition? can we just like add some unit of neurons with a high bandwidth connection to some brain region? 

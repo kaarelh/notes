@@ -1,0 +1,2 @@
+
+aim to weight such that if have credence p in a theory, be crucially moved by the theory in some sense a fraction p of the times a priori (these would roughly be the decisions the theory cares the most about)

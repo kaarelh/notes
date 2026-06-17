@@ -1,0 +1,4 @@
+
+Is a distinction made in the RL literature between the case where the environment is (initially) unknown to the agent vs the case where is is known to the agent? I guess you can maybe treat the case where it is unknown as just a case with a larger known environment — now the agent is just unsure about which component it is in, which is just the normal kind of uncertainty in a known environment. 
+
+In an episodic case, given this translation, there is a distinction between an optimal policy for the case where your environment gets resampled between episodes and where it doesn't (where only your position in a maze gets resampled, say, and the maze stays the same). But maybe it's fine to think of it as just non-episodic (i.e. a continuing setup) with a certain resampling after each 'epsiode' ends.

@@ -1,0 +1,8 @@
+
+the adam optimizer is trivial really. makes sense to use it for stochastic things i think — anyway, that's the context in which they present it in the original paper
+
+just have an exponential moving average for the gradient and for the squared norm of the gradient, with hyperparams for each decay rate. and do a gradient step which is normalized to have fixed length alpha, which is another hyperparam. two details:
+1. When the norm estimate becomes less than eps, then gradient steps become proportional to the size of the gradient, because really we are 'normalizing' by dividing by the norm estimate plus eps (i think this was presented to me initially as being about numerical issues — indeed, it also makes sense since we don't want to be dividing by 0, but it seems plausible to me that we also want step size to eventually decrease as we get close to an optimum, and this provides that)
+2. really, we keep track of biased exponential moving averages, basically because we have to start somewhere, and we don't want to just start at initial gradient values because I guess that would fuck up the ratios of contributions from each gradient — i.e., it would make it the case that the first gradient dominates for a while — so instead, we start at 0 and keep track of a biased average gradient estimator and a biased norm-square estimator, computing normalized versions again and again on each step to find the unbiased estimators that are actually used for a gradient step 
+
+![[Pasted image 20230814001153.png]]

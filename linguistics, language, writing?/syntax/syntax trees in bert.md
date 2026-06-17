@@ -1,0 +1,2 @@
+
+look at attention in bert; can we pretty much recover syntax trees by looking at attention patterns in the right way? (either masking each token of a sentence or not. need to be careful about ambiguous parsings post-masking)

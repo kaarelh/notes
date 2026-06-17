@@ -1,0 +1,2 @@
+
+i need to think more about whether playing around when thinking is a Thing. like to get somewhere with understanding something, it seems maybe plausible that one pretty much needs to create an arena where one can play with that thing? is that a Thing that says something interesting or just a weak pov though?

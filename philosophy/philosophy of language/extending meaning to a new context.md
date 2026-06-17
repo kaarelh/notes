@@ -1,0 +1,5 @@
+
+we could say: you have properties you care about. you use a term when these properties seem to be met
+also important: you have activities, eg thought-activities, you carry out with a glarb. if you can carry them out with x, then plausibly you should call x a "glarb"
+
+but other interesting framing: you could be a bayesian about whether x is a glarb, then notice some salient glarb properties are met, and so potentially update to high probability of x being a glarb (maybe this works better if we make you in some sense overupdate compared to what would be warranted by some restrictive meanings of "glarb" — we make you update as much as would be appropriate for some kinda not so restrictive notion)! and now if you don't have any counters, then just have high probability on "x is a glarb" i guess. a twist: one can think of this as meaning having been extended to a new context

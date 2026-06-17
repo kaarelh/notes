@@ -1,0 +1,12 @@
+
+* there's a bunch of interesting stuff to be said about thinking
+* that said, it's probably not possible (for us probably-forever-bounded agents) to do anything like 'understanding thinking in full'
+	* thinking isn't a finite thing. there's no 'science algorithm' or 'math algorithm' which can be well-understood in its unfolding, much like there's no 'ultimate technology' or 'best possible thing' or 'understanding all of math'
+	* to address an obvious objection: yes, there is a fairly short specification of a thing which would go on to understand/do very much (though probably with very much radical self-reprogramming on all levels, probably quickly becoming something very much not evident from that initial form, plausibly arbitrarily many times), and while having that specification in front of us (in some more transparent form than having humanity in front of us) would be cool, it wouldn't endow us with anything close to 'a full understanding of thinking'
+	* the possible and worthwhile thing here is probably better thought of as understanding some finite amount about a potentially highly infinite thing
+		* that said, it's possible to well-understand some optimal finite structures which have some relation to thinking; for a fairly random example, it's an interesting fact that a batch of independent samples of a given random variable $X$ can be well-communicated at rate $H(X)$ — understanding this could be helpful for getting some understanding of some aspect of thinking, and the fact could be employed in our thinking, and the fact could be used for building new technologies integrated to our thinking, so becoming more relevant to our thinking working
+	* there will probably always be very much to be understood at time $t$ about your thinking-structures at time $t$. there will always be very very very much to be understood at time $t$ about all the thinking-structures/technologies you will employ in the future, and very very very very very very very much to be understood about all structures you could employ or all possible thinking-relevant-structures
+	* 
+	* there will probably always be substantive and surprising better ways to thin, much like the 
+	* 
+* but again, there's a bunch of interesting stuff to be said about thinking, and that will probably always remain to be the case

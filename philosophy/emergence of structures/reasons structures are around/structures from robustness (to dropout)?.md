@@ -1,0 +1,2 @@
+
+something something needing each part to keep working in the presence of various constellations of other parts (which plausibly happens because of sexual reproduction and possibly also without that in organisms) causes it to be nice?

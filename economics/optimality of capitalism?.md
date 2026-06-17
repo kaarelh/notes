@@ -1,0 +1,2 @@
+
+why isn’t it a problem that people can generally be very motivated by transfers? eg see stock trader and advertising debate with erdil, also fixed demand but more fun for u to supply case, probably many more. can we estimate how much ppl (by job, maybe) are motivated by transfers vs newvalue? is this solved by cartels? by externality taxing?

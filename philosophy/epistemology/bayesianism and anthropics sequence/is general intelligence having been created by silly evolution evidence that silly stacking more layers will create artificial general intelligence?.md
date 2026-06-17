@@ -1,0 +1,7 @@
+
+an immediate counter: perhaps it's silly to say that intelligence was created by evolution, much like it might be silly to say that cars were created by evolution: instead, perhaps a clearer story is that evolution created x, x created general intelligence, and general intelligence created cars. eg maybe x is like some sort of social signaling game setup with some ability to transmit information to future players or whatever
+
+
+the argument is this: We exist. From some imagined previous state where evolution is just getting started on Earth, the likelihood of Earth getting a general intelligence is much higher conditional on silly scaling working — otherwise, some substantial weird things had to happen in evolutionary history, and substantial weird things are unlikely to happen. I feel like the likelihood ratio here could be like $1000$ easily? But then at some point one needs to account for model uncertainty.
+
+One needs to think about how this interacts with anthropics. I think a modest version of this is just straightforwardly right though: that we exist is evidence that it's not that hard to create a general intelligence. But a more precise thing might require some thinking about anthropics.

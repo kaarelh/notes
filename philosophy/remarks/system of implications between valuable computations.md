@@ -1,0 +1,2 @@
+
+a way out of the brain-with-sensors-making-sure-it-does-a-particular-thing-else-kills-it thought experiment (ie response to chalmers rock) is to say that the entire system does some valuable computation. but that's some nontrivial general implication between values of certain computations, right?

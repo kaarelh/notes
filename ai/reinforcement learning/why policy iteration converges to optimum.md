@@ -1,0 +1,8 @@
+
+policy iteration: change action (distribution) from a state to the action (distribution) that maximizes expected value conditional on following old policy forever after
+
+infinite horizon case. pretty easy to see a step of this makes expected value >=. one way to see is just to note that this is true for doing new policy for any finite number of steps (because after doing for k steps, when asked whether want to do it for one more step, answer is always yes. so doing it for k+1 steps is also better than not doing it at all by induction. and then one can see from bounded reward going down after a lot of steps that the assumption that new policy is worse would give a contradiction (it is better to do it for large finite number and after that you can't lose that much anymore))
+
+the pf that you don't get stuck when suboptimal: consider state whose EV delta under current policy is largest compared to optimal EV. then pretty easy to check that it is for sure a good idea to switch to optimal policy from that state and then do old policy. so definitely change something as long as there is at least one state where we are doing worse
+
+i guess to establish convergence to optimum in finite time we still need to show there are only finitely many of these steps. assuming we are working with deterministic policies (which are always optimal anyway), this follows from each step being an improvement and there being only finitely many possible policies

@@ -1,0 +1,4 @@
+
+
+What was confusing me about derandomization: I thought that there should be a PRG that kills any BPP algorithm but also that there is an obvious reason why there cannot be such a PRG (consider the distinguisher that looks at the given input and just tries all input seeds, computes what the PRG does to them, checks if the input is one of those outputs). Turns out that the first claim was wrong: there is no PRG that kills any BPP algorithm, but for derandomization, we just need that for every BPP algorithm, there is some PRG that kills it. (And ppl think that, given an upper bound on the runtime, one can give such a PRG. I think this is equivalent or similar to or implied by some result about there existing a function which requires big circuits to invert or distinguish from random or sth like that.)
+Also see ex. 3.2 in https://www.wisdom.weizmann.ac.il/~oded/PDF/prg10.pdf

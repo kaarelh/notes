@@ -1,0 +1,9 @@
+
+
+powers can be computed blockwise because matrix multiplication of block diagonal matrices can be done blockwise ('different blocks do not interact'). so to understand the powers of any matrix, it sort of suffices to understand the powers of a jordan block
+
+Claim. For a $k\times k$ jordan block with eigenvalue $\lambda$, call it $J=J(k,\lambda)$, the power $J^n$ is a matrix that is constant across each descending diagonal (i think this is called being toeplitz), $0$ below the main diagonal, and entries along diagonal $\ell$ from the main diagonal (starting counting at the main diagonal itself with $\ell=0$) being $\binom{n}{\ell} \lambda^{n-\ell}$
+
+see eg https://www.wolframalpha.com/input?i=matrix+multiplication+calculator&assumption=%7B%22F%22%2C+%22MatricesOperations%22%2C+%22theMatrix3%22%7D+-%3E%22%7B%7Bx%2C1%2C0%2C0%7D%2C%7B0%2Cx%2C1%2C0%7D%2C%7B0%2C0%2Cx%2C1%7D%2C%7B0%2C0%2C0%2Cx%7D%7D%22&assumption=%7B%22F%22%2C+%22MatricesOperations%22%2C+%22theMatrix2%22%7D+-%3E%22%7B%7Bx%2C1%2C0%2C0%7D%2C%7B0%2Cx%2C1%2C0%7D%2C%7B0%2C0%2Cx%2C1%7D%2C%7B0%2C0%2C0%2Cx%7D%7D%22&assumption=%7B%22F%22%2C+%22MatricesOperations%22%2C+%22theMatrix1%22%7D+-%3E%22%7B%7Bx%2C1%2C0%2C0%7D%2C%7B0%2Cx%2C1%2C0%7D%2C%7B0%2C0%2Cx%2C1%7D%2C%7B0%2C0%2C0%2Cx%7D%7D%22
+
+Pf by induction. Note that it's true for $n=1$ by definition of a Jordan block. If it's true for $n$, then it's true for $n+1$ — let's just calculate. By [[the product of upper-triangular toeplitz matrices is upper-triangular toeplitz]], we can calculate $J^n J$ by calculating the top row only. the top row is the product of the top row of $J^n$ times the columns of $J$. Each column adds the previous thing with coeff 1 plus the next thing with coeff $\lambda$. The powers of $\lambda$ match and the coeffs add up to the right thing because it's just pascal's triangle.

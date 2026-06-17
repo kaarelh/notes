@@ -1,0 +1,2 @@
+
+a proof of a hardness result (eg that something is a PRG — that it can't be distinguished by any circuit of a certain size from random — that distinguishing it is hard; or that SAT can't be solved in polytime) implies that the thing lacks any exploitable structure. but such a proof would really like to use some structure of the thing! i guess this has some significant amount to do with this thing being such a mess

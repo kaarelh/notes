@@ -1,0 +1,2 @@
+
+As usual, we have a linear map $W\colon \mathbb{R}^n\to \mathbb{R}^k$ that we represent by an $k\times n$ matrix which we also call $W$. The right singular vectors $v_1,\ldots, v_n\in \mathbb{R}^n$ of $W$ are (iteratively orthogonally chosen) unit vectors which get mapped by $W$ to output vectors of maximum norm — in other words, directions which get scaled maximally by $W$. If we have a data set $a_1,\ldots, a_d\in \mathbb{R}^n$ of vectors, then 

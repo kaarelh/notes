@@ -1,0 +1,4 @@
+
+Suppose you live in a world in which people are offered $2:1$ bets about that they are currently awake every day and every night (let's assume that people sleep at night). Let's assume that when you are dreaming, you tend to be quite sure that you are awake if asked, much like when you are awake. You might think that when awake, you should take such bets, because surely you can tell that you are not dreaming! However, if your only options are to form a policy (habit) which either accepts these wagers or rejects these wagers (doesn't seem tooooo implausible), then you would want to form the habit of not accepting these bets.
+
+Of course, it'd be nicer to form the policy of trying to multiply some two-digit integers and only accepting the bet if one is able to multiply them successfully, or something (assuming there is a way to check this when dreaming).

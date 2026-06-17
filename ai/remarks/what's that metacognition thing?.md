@@ -1,0 +1,2 @@
+
+maybe not some galaxy-brained thing about thinking more optimally, not even about seeing how five lemmas operate in one's thinking and combining the role they play into a theory, but good analogy from tsvi: initially think about you doing stuff with the roots, turn this doing into a mathematical object

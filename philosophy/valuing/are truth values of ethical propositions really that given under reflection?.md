@@ -1,0 +1,10 @@
+
+is it sensible to speak of the view one would come to have on an ethical proposition after more reflection? i think antirealist reflection and CEV cluster views kinda think this. but i think this might be really weird actually 
+
+of course we can just have some distribution of reflection branches, and speak of eg whether P or not-P gets assigned more probability on average across these branches. but i think the CEV person likes to imagine that there is some sort of pretty robust fact. like, it might depend on the setup what will happen, but there is a robust moral fact (it's just that some reflections fail to see it). so the CEV person is making a stronger claim typically
+
+but i hypothesize maybe it's more like: basically any moral fact will ultimately be feeling like a sort of non-central moral fact, like it could have gone one way or the other, like it doesn't so much affect the bulk of one's moral beliefs. it's not so robust that it has to go one way or the other, it's eventually more like "whatever". and then it's perhaps just ok to say: there are many alright reflection branches where it goes one way, and many where it goes the other way; it is not robustly determined that it should go one way or the other.
+
+like, maybe there is strongly such a thing as a good reflection (or like worse and better ones), but there aren't strongly correct truth values one reaches in good reflections? or maybe there is sort of a correctish value for each proposition but it's sorta fine to have reflections which don't get that value also?
+
+this was prompted by the question: can whether a human would be nice to other humans under a good reflection depend a lot on what setup/affordances the human is given? there is a view that the answer is "no" because this sort of thing is supposed to be very robustly determined. but you could instead say that this is sort of an incidental fact, like the human could do it and could not do it, without losing most of the value either way

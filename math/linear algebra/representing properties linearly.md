@@ -1,0 +1,4 @@
+
+Suppose that I have an input data set X, and I am given m 'properties' f_1, f_2, ..., f_m, each a function from X to {0,1}. Suppose further that I am given a sparsity guarantee: that on any one input x in X, all but l of the properties are 0.
+
+Now suppose I want to pick for each input x in X a vector a(x) in R^n such that for every function f_i, there is a 'readoff vector' r_i in R^n such that r_i dot a(x) = f(x) + o(1). That is, I want to construct representation vectors a(x) from which I can systematically read off all the properties. For which values of the parameters m, l, and n is this possible?

@@ -1,0 +1,4 @@
+
+can recognize that certain thinking well of things implies certain representations inside one's head ought to have a certain structure. more precisely, at least often, this has the form of recognizing that representations one'd be happy with would have a certain property. and then when engaging in the construction of these representations, or in a search for good representations, one can restrict this search to only representations with this desirable property.
+
+examples: probabilities should add, preferences should be given by maximizing expected utility, maybe some jeffrey-bolker/savage combination of these two

@@ -1,0 +1,4 @@
+
+What would a bayesian analogue of gradient descent look like? The statistics literature on model selection proposes some answers. The answer I know of makes assumptions which optimize for creating something which can be mathematically-rigorously studied. (They want to prove some theorems, they want to relate it to physics — all fair enough.) In this note, I want to specify a bayesian analogue of gradient descent while making assumptions which optimize 'philosophical correctness', with little initial regard for whether the end-objects will admit rigorous mathematical study.
+
+actual bayesian inference on data pts. model params give prob distr

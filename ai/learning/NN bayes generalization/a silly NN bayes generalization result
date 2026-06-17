@@ -1,0 +1,18 @@
+This is a silly result about a "physically wrong" scaling limit of neural nets.
+
+Claim (informalmost). Finite bit precision overparametrized NNbayes has good generalization properties. 
+
+Claim (informal). Finite bit precision overparametrized NNbayes learns functions with small circuits quickly.
+
+Claim (less informal). Assume finite bit precision of weights, and that weights are bounded. Consider NNbayes learning on an MLP of depth d and width N, in the "strong prior" limit, ie where you just always have nearly full probability on the smallest L^2 norm fit compatible with the data so far. Let C(f) denote the width of the smallest neural net that implements the function f:R^d->R. Then when doing in-distribution learning of f, at any width N>C(f), NNbayes very likely gets >99.9% test accuracy after seeing poly(C(f),d) train data points.
+
+Remark. the constant inside the poly(C(f),d) depends on the inverse of the bit precision eps and the max weight size
+
+Remark. again, this is a trivial braindead result
+
+the argument is just:
+* if the function has a small circuit, then there is this finite L^2 norm construction where you just use a subset of the neurons to implement the circuit and set everything else to 0. the squared L^2 norm of this is poly(complexity)
+* how many functions with smaller NN implementations are there? well, since there is a weight quantum eps, we can just bound the number of nonzero weights by the L^2 norm times 1/eps^2, so that's still poly(complexity)
+* but how many circuits are there with only poly(complexity) edges? only exp(poly(complexity)). like, there are many more implementations, but only at most this many different "lower occam complexity" functions.
+* use a union bound to see that by seeing poly(complexity) data points, all the smaller functions which have <99.9% accuracy get ruled out with exponentially high probability 
+* so occam learning indeed whp leaves you with a function with >99.9% test accuracy

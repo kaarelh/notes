@@ -1,0 +1,6 @@
+
+* there's an attitude that looks at things and feels very free to ask: is this the best way this thing could be? 
+* there's another attitude that looks at things and feels more like not asking anything, or asking: "is there reason to change this?", with a strong default toward answering "no". or maybe: "is there anything really that wrong with this, that it has to be changed?", feeling very free to answer "no". 
+* one reason to have the latter attitude is the following: existing life is cool. we don't know very precisely what it is that is good in a human life, but we know a human life is deeply good. human communities and societies and society are also deeply good. so, every element of a human or a human community or a human society or human society is by default good. like, there could be reasons why it is actually better to replace it or even better to simply get rid of it, but when an element is revealed and/or brought to our attention, we should start out thinking of it as a cool part of human life
+
+also, when you do get rid of a thing, you should make sure to ask "what are all the important things this thing was doing?" and try to make sure you've set up other systems that do those things. i guess we should in the past have applied this principle to even all-things-considered very bad things such as murder and rape?

@@ -1,0 +1,10 @@
+
+there's a boring way for a principle to be self-supporting: trivially, P implies P. this note is not about principles which are self-supporting in this silly sense. here is an example of a more fun kind of self-supporting principle:
+* P_1 = when facing a choice between whether to 'go in one direction or another' in one's (ethical) reflection, whether to adopt a position or another, go in the direction that doesn't make you inert/[a nihilist]/dead/[not do anything anymore]/[start to feel all actions are the same (compared to what other scale 
+* though?)], that 'adds to you being agentic' (i'm not sure this even means anything actually. starting to drink alcohol or whatever is not doing nothing. why does that have anything to do with being a nihilist. still, there is some kind of trying-to-do-stuff, working-toward-stuff, that one could give up)
+	* eg suppose you notice that you believe that in some sense all mathematical structures kinda-exist kinda-equally, and that this means that in some sense you can't make there be more of anything, but also that ethics is about cool things existing — should you then conclude that what you do doesn't matter (what would it even mean to conclude that actually? why would that conclusion make you become un-alive?)
+
+then plausibly P_1 endorses itself in an interesting way — it is a criterion that says something about which principles to accept that endorses its own acceptance. it doesn't just imply itself like any other P — in addition to implying itself, it directly says its own adoption is good! (i guess most Ps imply that their adoption is good, but only going through some other principle that true things are good to adopt, which seem less direct)
+
+i guess P_1 feels a bit compelling to me, partly exactly because it already is a bit compelling to me?
+i worry though that this kind of thing easily makes you collapse into a soulless power-seeker? like just always choosing the property that makes you most powerful or something? i guess maybe we should just think of this as one force at play, and there are also counter-forces that make you keep your soul
